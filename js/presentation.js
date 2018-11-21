@@ -32,11 +32,31 @@ class Presentation
 		return new Presentation(slides);
 	}
 
-	show()
+	sleep(time)
 	{
-		for(const slide: this.slides)	
+ 		return new Promise((resolve) => setTimeout(resolve, time));
+	}
+
+	async show()
+	{
+		const shown = [];
+		for(const slide of this.slides)	
 		{
-			sleep("500");
+			await this.sleep("2000");
+			for(const element of shown)
+			{
+				document.body.removeChild(element);
+			}
+			shown.length=0;
+			console.log(slide);
+			for(const card of slide)
+			{
+				const img = document.createElement("IMG");
+				img.src = card.img;
+				img.classList.add("card");
+				document.body.appendChild(img);
+				shown.push(img);
+			}
 		}
 	}
 }
