@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="de">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Magic: the Gathering Slide Generator</title>
+	<link rel="stylesheet" href="css/screen.css">
+</head>
+<body>
+
+<form method="GET" action="slideshow.html">
+  <textarea id="cardNames" name="cardNames" rows="25" cols="100"></textarea>
+  <button type="submit" name="source" value="conglomerate">Start Slideshow</button>
+  <input type="button" value="Example Slides" onclick="exampleSlides()"/>
+  <input type="file" value="Upload Cardnames" id="upload"/>
+  <input type="button" value="Clear" onclick='document.getElementById("cardNames").value="";'/>
+</form>
+
+<script>
+function exampleSlides()
+{
+ document.getElementById("cardNames").value=
+`Hanna, Ship's Navigator
+Mind Stone|Aether Spellbomb|Phyrexian Furnace
+Mind Stone|Aether Spellbomb|Phyrexian Furnace|Paradox Engine|Sol Ring|Gilded Lotus`;
+}
+
+const uploadButton = document.getElementById("upload");
+uploadButton.addEventListener("change",upload);
+
+function upload()
+{
+ console.log("upload started");
+ const files = uploadButton.files;
+ if(files.length > 0)
+ {
+ console.log("file selected");
+  const file = files[0];
+  const reader = new FileReader();
+  reader.addEventListener("load",()=>
+  {
+   console.log("loading file");
+   const cardNames = document.getElementById("cardNames");
+   cardNames.value = "";
+   for(let line of reader.result.split("\n"))
+   {
+    line = line.trim();
+    if(line.startsWith("#")||line.startsWith("//")) {continue;} // ignore comments
+    console.log(line);
+    // remove card multiplicities
+    line = line.replace(/^[0-9]+/,"");
+    cardNames.value+=line.trim()+"\n";
+   }
+  });
+  reader.readAsText(file);
+ }
+}
+</script>
+
+<h3>Explanation</h3>
+Each input line creates one slide that shows the given cards.
+Multiple cards need to be separated by the "|" character.
+<h3>Questions and Contributions</h3>
+This is a quick hack developed <a href="https://github.com/konradhoeffner/mtgslides">on GitHub</a>. Feel free to contribute a pull request or to open an issue to report bugs, ask questions or propose additions.
+</body>
+</html>

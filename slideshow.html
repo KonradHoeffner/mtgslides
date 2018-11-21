@@ -1,0 +1,34 @@
+<!doctype html<!doctype html>
+<html lang="de">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Magic: the Gathering Slideshow</title>
+	<link rel="stylesheet" href="css/screen.css">
+	<script src="js/presentation.js"></script>
+</head>
+<body class="slide">
+<!--<table id="resulttable" style="visibility:hidden;">
+<tr><th>Decklist</th><th>Tier</th><th>Hits</th><th>Cards</th></tr>
+</table>-->
+
+<script>
+let params = new URLSearchParams(location.search);
+if(!params)
+{
+ document.write("No parameter object found. Outdated browser?");
+ throw new Error("No parameter object found. Outdated browser?");
+
+}
+let cardNames;
+if(!(cardNames=params.get("cardNames")))
+{
+ document.write("No card names given for deck search. Please specify at least one card in the <a href='index.html'>search engine</a>.");
+ throw new Error("No card names given for deck search. Please specify at least one card in the <a href='index.html'>search engine</a>.");
+} else
+{
+ const presentation = Presentation.parse(cardNames);
+}
+</script>
+</body>
+</html>
