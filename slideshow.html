@@ -27,8 +27,14 @@ if(!(cardNames=params.get("cardNames")))
  throw new Error("No card names given for deck search. Please specify at least one card in the <a href='index.html'>search engine</a>.");
 } else
 {
- const presentation = Presentation.parse(cardNames);
- presentation.show();
+ Presentation.parse(cardNames).then(p=>
+ {
+  p.show();
+  document.onkeydown = function(e)
+  {
+    if(e.key === "ArrowRight")  {p.next();}
+  }
+ });
 }
 </script>
 </body>

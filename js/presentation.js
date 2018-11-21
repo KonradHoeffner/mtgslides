@@ -6,7 +6,7 @@ class Presentation
 		console.log(slides);
 	}
 
-	static parse(text)
+	static async parse(text)
 	{
 		const slides = [];
 		const lines = text.split("\n");
@@ -21,11 +21,8 @@ class Presentation
 				cardName = cardName.trim();
 				const card = {name: cardName};
 				const uri = "https://api.scryfall.com/cards/named?fuzzy="+encodeURIComponent(cardName);
-				fetch(uri).then(res=>res.json())
-				.then(json =>
-				{
-					card.img = json.image_uris.normal;
-				});
+				const json = await fetch(uri).then(res=>res.json());
+				card.img = json.image_uris.normal;
 				slide.push(card);
 			}
 		}
@@ -37,26 +34,30 @@ class Presentation
  		return new Promise((resolve) => setTimeout(resolve, time));
 	}
 
-	async show()
+	show()
 	{
-		const shown = [];
-		for(const slide of this.slides)	
-		{
-			await this.sleep("2000");
-			for(const element of shown)
+		this.shown = [];
+		this.slideNr = -1;
+		this.next();
+	}
+
+	next()
+	{
+			for(const element of this.shown)
 			{
 				document.body.removeChild(element);
 			}
-			shown.length=0;
+			this.shown.length=0;
+			const slide = this.slides[++this.slideNr];
 			console.log(slide);
+			if(!slide) {return false;}
 			for(const card of slide)
 			{
 				const img = document.createElement("IMG");
 				img.src = card.img;
 				img.classList.add("card");
 				document.body.appendChild(img);
-				shown.push(img);
+				this.shown.push(img);
 			}
-		}
 	}
 }
