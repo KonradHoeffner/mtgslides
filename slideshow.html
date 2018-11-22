@@ -29,10 +29,12 @@ if(!(cardNames=params.get("cardNames")))
 {
  Presentation.parse(cardNames).then(p=>
  {
-  p.show();
+console.log("parsed");
+  p.start();
   document.onkeydown = function(e)
   {
     if(e.key === "ArrowRight")  {p.next();}
+    if(e.key === "ArrowLeft")  {p.prev();}
   }
  });
 }
