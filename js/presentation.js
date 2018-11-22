@@ -25,8 +25,11 @@ class Presentation
 				//const uri = "https://api.scryfall.com/cards/named?fuzzy="+encodeURIComponent(cardName);
 				const uri = 'https://api.scryfall.com/cards/search?q='+encodeURIComponent(`!"${cardName}"++not:reprint`);
 				const json = await fetch(uri).then(res=>res.json());
-				console.log(uri);
-				if(!json||!json.data) {continue;}
+				if(!json||!json.data)
+				{
+					console.warn("Could not find image for card "+cardName);
+					continue;
+				}
 				card.img = json.data[0].image_uris.normal;
 				slide.push(card);
 			}
@@ -48,14 +51,12 @@ class Presentation
 
 	next()
 	{
-	console.log("next");
 		if(this.slideNr>=this.slides.length-1) {return false;}
 		this.show(++this.slideNr);
 	}
 
 	prev()
 	{
-	console.log("prev");
 		if(this.slideNr<=0) {return false;}
 		this.show(--this.slideNr);
 	}
