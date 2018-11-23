@@ -8,11 +8,13 @@ class Presentation
 
 	static async parse(text)
 	{
+		loadCache();
 		const slides = [];
 		const lines = text.split("\n");
-		for(const line of lines)
+		for(let line of lines)
 		{
-    		if(line.startsWith("#")||line.startsWith("//")) {continue;} // ignore comments
+			line = line.trim();
+    		if(!line||line.startsWith("#")||line.startsWith("//")) {continue;} // ignore comments
 			cardNames = line.split("|");
 			const slide = [];
 			slides.push(slide);
@@ -22,18 +24,11 @@ class Presentation
 				cardName = cardName.trim();
 				if(!cardName) {continue;}
 				const card = {name: cardName};
-				//const uri = "https://api.scryfall.com/cards/named?fuzzy="+encodeURIComponent(cardName);
-				const uri = 'https://api.scryfall.com/cards/search?q='+encodeURIComponent(`!"${cardName}"++not:reprint`);
-				const json = await fetch(uri).then(res=>res.json());
-				if(!json||!json.data)
-				{
-					console.warn("Could not find image for card "+cardName);
-					continue;
-				}
-				card.img = json.data[0].image_uris.normal;
+				card.img = await imageUrl(cardName); 
 				slide.push(card);
 			}
 		}
+		saveCache();
 		return new Presentation(slides);
 	}
 
