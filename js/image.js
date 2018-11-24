@@ -1,6 +1,6 @@
 let cache = {};
 
-const format = "normal";
+const format = "png";
 
 async function loadCache()
 {
@@ -24,7 +24,7 @@ async function imageUrl(cardName)
 		console.warn("Could not find image for card "+cardName);
 		return null;
 	}
-	url = json.data[0].image_uris.normal;
+	url = json.data[0].image_uris[format];
 	cache[cardName]=url;
 	return url;
 }
