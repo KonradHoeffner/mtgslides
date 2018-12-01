@@ -13,7 +13,12 @@
  flex-wrap: wrap;
 }
 
-.card
+.card50
 {
  height: 50%;
+}
+
+.card
+{
+ height: 100%;
 }

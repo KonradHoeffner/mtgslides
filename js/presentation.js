@@ -71,7 +71,7 @@ class Presentation
 			{
 				const img = document.createElement("IMG");
 				img.src = card.img;
-				img.classList.add("card");
+				img.classList.add(slide.length>2?"card50":"card");
 				document.body.appendChild(img);
 				this.shown.push(img);
 			}
