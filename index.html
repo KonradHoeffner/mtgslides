@@ -11,7 +11,8 @@
 <form method="GET" action="slideshow.html">
   <textarea id="cardNames" name="cardNames" rows="25" cols="100"></textarea>
   <button type="submit" name="source" value="conglomerate">Start Slideshow</button>
-  <input type="button" value="Example Slides" onclick="exampleSlides()"/>
+  <input type="button" value="Hanna Example" onclick="exampleSlides()"/>
+  <input type="button" value="Muldrotha Example" onclick="exampleSlidesMuldrotha()"/>	
   <input type="file" value="Upload Cardnames" id="upload"/>
   <input type="button" value="Clear" onclick='document.getElementById("cardNames").value="";'/>
 </form>
@@ -83,6 +84,65 @@ Lightning Greaves|Ensnaring Bridge|Propaganda|Wurmcoil Engine|Bribery
 `
 }
 
+function exampleSlidesMuldrotha()
+{
+ document.getElementById("cardNames").value=
+`# Muldrotha, the Gravetide
+
+# Lands
+Underground Sea|Tropical Island|Bayou|Watery Grave|Breeding Pool|Overgrown Tomb
+Bloodstained Mire|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Verdant Catacombs|Windswept Heath|Wooded Foothills
+Forest|Island|Swamp
+Command Tower|City of Brass|
+
+Cavern of Souls
+Cephalid Coliseum
+Strip Mine
+
+
+Gaea's Cradle
+Hinterland Harbor
+
+Urborg, Tomb of Yawgmoth
+Drowned Catacomb
+Woodland Cemetery
+
+
+
+#Paradox Engine|Power Artifact|Transmute Artifact|Memory Jar|Timetwister
+# Combo
+## Isochron Scepter
+Basalt Monolith|Grim Monolith|Power Artifact|Stroke of Genius|Braingeyser
+Sensei's Divining Top|Future Sight|Helm of Awakening 
+Opalescence|Parallax Wave|Parallax Tide
+High Tide|Time Spiral|Frantic Search|Treachery
+
+#Ramp and Mana Fixing
+Sol Ring|Mox Diamond|Mind Stone|Sky Diamond|Gilded Lotus|Lotus Petal|Grim Monolith|Basalt Monolith|Land Tax|Tithe
+#Card Selection
+Ponder|Brainstorm|Preordain|Sensei's Divining Top|Scroll Rack
+#Card Draw
+## Permanent
+Mystic Remora|Rhystic Study|Future Sight
+## One Time
+Fact or Fiction|Dig Through Time||Timetwister|Windfall|Time Spiral|Memory Jar|Stroke of Genius|Braingeyser
+
+# Interaction
+## Counterspells
+Force of Will|Misdirection|Mana Drain|Counterspell|Arcane Denial|Spell Pierce|Swan Song|Decree of Silence
+## Removal 
+Wrath of God|Terminus|Swords to Plowshares|Parallax Wave|Treachery|Aura of Silence|Detention Sphere
+
+# Recursion
+Hanna, Ship's Navigator|Academy Ruins|Sun Titan|Open the Vaults|Replenish
+
+# Tutors
+Enlightened Tutor|Mystical Tutor|Intuition|Inventor's Fair|Trinket Mage|Tezzeret the Seeker
+
+# Good Stuff
+Lightning Greaves|Ensnaring Bridge|Propaganda|Wurmcoil Engine|Bribery
+`
+}
 const uploadButton = document.getElementById("upload");
 uploadButton.addEventListener("change",upload);
 
