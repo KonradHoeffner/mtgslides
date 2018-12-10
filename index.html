@@ -13,6 +13,7 @@
   <button type="submit" name="source" value="conglomerate">Start Slideshow</button>
   <input type="button" value="Hanna Example" onclick="exampleSlides()"/>
   <input type="button" value="Muldrotha Example" onclick="exampleSlidesMuldrotha()"/>	
+  <input type="button" value="Graveyard Example" onclick="exampleSlidesGraveyard()"/>	
   <input type="file" value="Upload Cardnames" id="upload"/>
   <input type="button" value="Clear" onclick='document.getElementById("cardNames").value="";'/>
 </form>
@@ -81,7 +82,7 @@ Enlightened Tutor|Mystical Tutor|Intuition|Inventor's Fair|Trinket Mage|Tezzeret
 
 # Good Stuff
 Lightning Greaves|Ensnaring Bridge|Propaganda|Wurmcoil Engine|Bribery
-`
+`;
 }
 
 function exampleSlidesMuldrotha()
@@ -182,8 +183,29 @@ Bitter Ordeal|Praetor's Grasp|Lion's Eye Diamond
 Phantasmal Image| Twiddle 
 Lion's Eye Diamond | Counterspell
 Muldrotha, the Gravetide | Force of Will | Counterspell | Mana Drain | Swords to Plowshares | Red Elemental Blast | Pyroblast | Chain of Vapor
-`
+`;
 }
+	
+function exampleSlidesGraveyard()
+{
+ document.getElementById("cardNames").value=
+`
+# Graveyard Hate
+# Why do you need it? Why is the graveyard so important?
+
+# Put into a graveyard from the battlefield trigger
+# DE: Trigger, wenn eine bleibende Karte aus dem Spiel in einen Friedhof gelegt wird
+Mikaeus, the Unhallowed|Glen Elendra Archmage|Academy Rector|Dictate of Erebo|Mindslicer|Skullclamp|Kokusho, the Evening Star| Meren of Clan Nel Toth|
+
+# Reanimation
+# bringe eine bleibende Karte aus einem Friedhof ins Spiel zurück
+Mikaeus, the Unhallowed|Glen Elendra Archmage|Reanimate|Exhume|Animate Dead|Daretti, Scrap Savant|Goblin Welder|Replenish|Nim Deathmantle|
+
+#Cast from the Graveyard
+Muldrotha, the Gravetide|Kess
+`;
+}
+	
 const uploadButton = document.getElementById("upload");
 uploadButton.addEventListener("change",upload);
 
