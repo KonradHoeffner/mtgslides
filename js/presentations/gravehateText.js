@@ -14,6 +14,6 @@ Leyline of the Void|Lotus Petal|Flash|Protean Hulk|Helm of Obedience
 Memory's Journey|Animate Dead|Vampiric Tutor|Flash of Insight|Pact of Negation
 Tormod's Crypt|Jhoira, Weatherlight Captain|Nihil Spellbomb|Karn, Silver Golem
 Bojuka Bog|Counterspell|Wasteland|Life from the Loam|Crop Rotation
-Containment Priest|Animate Dead|Living Death|Fact or Fiction|Natural Order|Opalescence|Replenish|Karador, Ghost Chieftain|Muldrotha, the Gravetide
+Containment Priest|Animate Dead|Living Death|Natural Order|Opalescence|Replenish|Karador, Ghost Chieftain|Muldrotha, the Gravetide
 Diminishing Returns|High Tide|Turnabout||Time Spiral|Timetwister|Windfall
 `;
