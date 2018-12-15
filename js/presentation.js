@@ -14,7 +14,7 @@ class Presentation
 		for(let line of lines)
 		{
 			line = line.trim();
-    		if(!line||line.startsWith("#")||line.startsWith("//")) {continue;} // ignore comments
+    		if(!line||line.startsWith("#")) {continue;} // ignore comments
 			cardNames = line.split("|");
 			const slide = [];
 			slides.push(slide);
