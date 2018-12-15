@@ -2,7 +2,7 @@ var gravehateText =
 `# Die besten Anti-Friedhofs-Karten in Commander
 Grafdigger's Cage|Rest in Peace
 Timetwister|High Tide|Timespiral|Turnabout|Frantic Search|Paradox Engine|Isochron Scepter|Dramatic Reversal|Dark Ritual|Noxious Revival
-Noxious Revival|Animate Dead|Elesh Norn, Grand Cenobite|Tormod's Crypt|Time Warp|Teferi, Temporal Archmage|The Chain Veil
+Noxious Revival|Animate Dead|Elesh Norn, Grand Cenobite|Tormod's Crypt|Time Warp
 Deathrite Shaman|Verdant Catacombs|Birds of Paradise|Scavenging Ooze
 Grafdigger's Cage|Animate Dead|Natural Order|Karador, Ghost Chieftain|Muldrotha, the Gravetide|Kess Dissident Mage|Past in Flames|Future Sight|Experimental Frenzy|Protean Hulk
 Rest in Peace|Animate Dead|Mikaeus, the Unhallowed|Glen Elendra Archmage|Skullclamp|Disenchant|Wear|Nature's Claim|Obsessive Search|Helm of Obedience
