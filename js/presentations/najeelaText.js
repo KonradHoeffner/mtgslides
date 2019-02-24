@@ -10,6 +10,14 @@ var najeelaText =
 # https://www.wolframalpha.com/input/?i=2%5En%2B2
 # Wie geht Summe dort?
 
+# beste Karten aus 5 Farben
+Demonic Tutor|Vampiric Tutor|Force of Will|Mana Drain|Mystic Remora|Brainstorm|Carpet of Flowers|Sylvan Library|Swords to Plowshares|Pyroblast
+# Schwarze Tutoren
+# Blau
+# Grün
+# Weiß
+# Rot
+
 #  20 life vs 120 life
 Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears
 
