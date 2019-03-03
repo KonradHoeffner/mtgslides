@@ -53,16 +53,19 @@ Voltaic Key
 Wrath of God|Terminus|Swords to Plowshares|Parallax Wave|Treachery|Aura of Silence|Detention Sphere
 # raus: Detention Sphere
 # rein: 
-Cyclonic Rift|Humility|Ugin
-# -2 -3 -> -5
+Cyclonic Rift|Humility
+# -2 -2 -> -4
 
 ## Counterspells
 # Bleibt
 Force of Will|Misdirection|Mana Drain|Counterspell|Arcane Denial|Spell Pierce|Swan Song|Decree of Silence
-# Decree raus
-# -4
+Decree of Silence||Misdirection
+# Decree raus und Misdirection raus
+# -2
 
 # Andere Karten raus
-Open the Vaults|Replenish
-
+# Rekursion
+Hanna, Ship's Navigator|Academy Ruins|Sun Titan|Open the Vaults|Replenish
+# Raus
+Sun Titan|Replenish
 `;
