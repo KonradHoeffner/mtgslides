@@ -7,6 +7,7 @@
 	<link rel="stylesheet" href="css/screen.css">
 	<!-- Importing text as JavaScript isn't elegant in theory but way better in practice than loading text files.-->
 	<script src="./js/presentations/hannaText.js"></script>
+	<script src="./js/presentations/hanna2Text.js"></script>
 	<script src="./js/presentations/najeelaText.js"></script>
 	<script src="./js/presentations/breyaText.js"></script>
 	<script src="./js/presentations/muldrothaText.js"></script>
@@ -19,6 +20,7 @@
   <button type="submit" name="source" value="conglomerate">Start Slideshow</button>
   <!-- Don't use ES6 modules so that the onclick handler can be defined here.-->
   <input type="button" value="Hanna Example" onclick="document.getElementById('cardNames').value=hannaText;"/>
+  <input type="button" value="Hanna Update" onclick="document.getElementById('cardNames').value=hanna2Text;"/>
   <input type="button" value="Najeela Example" onclick="document.getElementById('cardNames').value=najeelaText;"/>
   <input type="button" value="Breya Example" onclick="document.getElementById('cardNames').value=breyaText;"/>
   <input type="button" value="Muldrotha Example" onclick="document.getElementById('cardNames').value=muldrothaText;"/>	
