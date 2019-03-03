@@ -51,7 +51,8 @@ Voltaic Key
 # Interaction
 ## Removal 
 Wrath of God|Terminus|Swords to Plowshares|Parallax Wave|Treachery|Aura of Silence|Detention Sphere
-# raus: Detention Sphere
+# raus:
+Detention Sphere
 # rein: 
 Cyclonic Rift|Humility
 # -2 -2 -> -4
