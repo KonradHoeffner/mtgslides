@@ -1,4 +1,4 @@
-var hannaText =
+var hannaText2 =
 `# Paradox Hanna High Power EDH Deck
 Hanna, Ship's Navigator
 Hanna, Ship's Navigator|Paradox Engine|Isochron Scepter|Dramatic Reversal|Sol Ring|Aetherflux Reservoir
