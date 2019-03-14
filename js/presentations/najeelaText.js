@@ -106,8 +106,32 @@ Najeela, the Blade-Blossom
 Counterspell|Dispel|Evasive Action|Force of Will|Negate|Mana Drain|Mana Leak|Mental Misstep|Spell Pierce|Swan Song
 # Hate Pieces und größere Card Draw Engines aufsetzen
 Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod|Rystic Study|Compost
+
 # Removal einsetzen 
 Abrupt Decay|Cyclonic Rift|Fatal Push|Fire Covenant|Lightning Bolt|Nature's Claim|Swords to Plowshares|Wear // Tear
+
+# Combo
+Nature's Will|Derevi, Empyrial Tactician|Druids' Repository|Demonic Tutor|Vampiric Tutor|Enlightened Tutor|Tainted Pact|Demonic Consultation|Laboratory Maniac
+
 # Nachfüllen
 Ad Nauseam|Necropotence
+
+# https://www.mtgvault.com/kirdie2/decks/najeela/
+
+# Mulligans
+# 1.
+Edric, Spymaster of Trest|Swan Song|Watery Grave|Llanowar Elves|Carpet of Flowers|Cyclonic Rift|Grafdigger's Cage # Mull
+Nature's Will|Compost|Vampiric Tutor|Ad Nauseam|Mental Misstep|Bayou|Enlightened Tutor # Mull
+Llanowar Elves|Misty Rainforest|Badlands|Spell Pierce|Mother of Runes|Dack Fayden # Keep
+Llanowar Elves|Misty Rainforest|Badlands|Spell Pierce|Mother of Runes|Dack Fayden|Gaea's Cradle
+Tropical Island|Llanowar Elves
+Tropical Island|Badlands|Llanowar Elves|Najeela, the Blade-Blossom
+
+# 2. 
+Llanowar Elves|Watery Grave|Utopia Sprawl|Urborg, Tomb of Yawgmoth|Negate|Demonic Consultation|Mana Confluence # Keep
+
+# 3.
+Underground Sea|Mother of Runes|Necropotence|Bloom Tender|Tropical Island|Laboratory Maniac|Mana Drain # Mull
+Laboratory Maniac|Swan Song|Dark Confidant|Counterspell|Aven Mindcensor|Urborg, Tomb of Yawgmoth|Negate # Mull
+Utopia Sprawl|Urborg, Tomb of Yawgmoth|Tymna the Weaver|Bayou|Dispel|Mother of Runes # Keep
 `;
