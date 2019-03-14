@@ -91,4 +91,23 @@ Breeding Pool|Hallowed Fountain|Overgrown Tomb|Steam Vents|Stomping Ground|Verda
 # Ersetzen durch egal was hauptsache nicht getappt ins Spiel
 City of Brass|Command Tower|Exotic Orchard|Mana Confluence
 Gaea's Cradle|Urborg, Tomb of Yawgmoth|Forest
+
+# Wie spielt man das Deck?
+## Zuerst Ramp, Mystic Remora|Mother of Runes
+Mana Crypt|Sol Ring|Mox Diamond|Carpet of Flowers|Utopia Sprawl|Wild Growth|Birds of Paradise|Deathrite Shaman|Mystic Remora|Mother of Runes
+
+## Wenn Länder oder Ramp fehlt Cantrips
+Ponder|Brainstorm|Preordain|Gitaxian Probe
+
+## Dann den Commander
+Najeela, the Blade-Blossom
+
+## Counter offen halten um Najeela zu beschützen und zu verhindern das andere gewinnen
+Counterspell|Dispel|Evasive Action|Force of Will|Negate|Mana Drain|Mana Leak|Mental Misstep|Spell Pierce|Swan Song
+# Hate Pieces und größere Card Draw Engines aufsetzen
+Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod|Rystic Study|Compost
+# Removal einsetzen 
+Abrupt Decay|Cyclonic Rift|Fatal Push|Fire Covenant|Lightning Bolt|Nature's Claim|Swords to Plowshares|Wear // Tear
+# Nachfüllen
+Ad Nauseam|Necropotence
 `;
