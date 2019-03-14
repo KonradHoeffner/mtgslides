@@ -6,6 +6,7 @@ var najeelaText =
 # Warum ist Najeela so gut? Die macht doch nur Schaden. Kreaturen sind doch blöd. Ich könnte doch
 # Tymna spielen und Karten ziehen. Edric spielen und noch mehr Karten ziehen. Zur spielen und Verzauberungen ins Spiel bringen.
 
+# best of 25 Jahren Magic 25
 # beste Karten aus 5 Farben
 Demonic Tutor|Vampiric Tutor|Force of Will|Mana Drain|Mystic Remora|Brainstorm|Carpet of Flowers|Sylvan Library|Swords to Plowshares|Pyroblast
 # Schwarze Tutoren
