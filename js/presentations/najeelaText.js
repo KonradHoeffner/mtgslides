@@ -54,20 +54,41 @@ Carpet of Flowers|Utopia Sprawl|Wild Growth
 Mana Crypt|Bloom Tender
 
 # Cantrips
-Ponder|Brainstorm|Preordain
+Ponder|Brainstorm|Preordain|Gitaxian Probe
 
 # Interaktion
 # Counterspells
+Counterspell|Dispel|Evasive Action|Force of Will|Negate|Mana Drain|Mana Leak|Mental Misstep|Spell Pierce|Swan Song
+Pyroblast|Red Elemental Blast
+
 # Hate Cards
-# Removal
-Grafdigger's Cage|Null Rod|Rest in Peace
+Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod
 
+# 8 Removal
+Abrupt Decay|Cyclonic Rift|Fatal Push|Fire Covenant|Lightning Bolt|Nature's Claim|Swords to Plowshares|Wear // Tear
 
+# Manakurve sehr niedrig, Card Draw wichtig
+Compost|Mystic Remora|Sylvan Library|Rhystic Study|Skullclamp|Ad Nauseam|Necropotence|Urborg, Tomb of Yawgmoth
+Dark Confidant|Edric, Spymaster of Trest|Mindblade Render|Tymna the Weaver
 
-# Card Draw
+# Tutoren
+Demonic Tutor|Vampiric Tutor|Enlightened Tutor|Tainted Pact|Demonic Consultation
 
+# Bonuscombo
+Laboratory Maniac|Tainted Pact|Demonic Consultation
 
+# Anderes
+Dack Fayden|Secure the Wastes|Mother of Runes|Tithe
 
-
-
+# 32 Länder
+# natürlich 10 Duals, durch Shocklands ersetzbar
+Badlands|Bayou|Plateau|Savannah|Scrubland|Taiga|Tropical Island|Tundra|Underground Sea|Volcanic Island
+# 8 Fetches
+Arid Mesa|Bloodstained Mire|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Windswept Heath|Wooded Foothills
+# 7 grün blaue shock lands die man am anfang braucht für cantrips und mana dorks
+# Weiß Rot Schwarz haben wir am wenigsten und brauchen wir nicht so früh außer für Commander, daher nur 7 Shock Lands
+Breeding Pool|Hallowed Fountain|Overgrown Tomb|Steam Vents|Stomping Ground|Verdant Catacombs|Watery Grave
+# Ersetzen durch egal was hauptsache nicht getappt ins Spiel
+City of Brass|Command Tower|Exotic Orchard|Mana Confluence
+Gaea's Cradle|Urborg, Tomb of Yawgmoth|Forest
 `;
