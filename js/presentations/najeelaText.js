@@ -24,6 +24,11 @@ Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Be
 
 # Combo
 Nature's Will|Derevi, Empyrial Tactician|Druids' Repository|Sword of Feast and Famine|Bear Umbra|Cryptolith Rite|Phyrexian Altar
+## Multiplayer
+Nature's Will|Derevi, Empyrial Tactician|Druids' Repository
+## 1v1
+Sword of Feast and Famine|Bear Umbra
+
 # Zwei Arten von Combos: Die Landcombos und die Kreaturencombos
 
 ## Landcombos
@@ -116,7 +121,31 @@ Nature's Will|Derevi, Empyrial Tactician|Druids' Repository|Demonic Tutor|Vampir
 # Nachfüllen
 Ad Nauseam|Necropotence
 
-# https://www.mtgvault.com/kirdie2/decks/najeela/
+## 1v1 Variante
+### Combo
+#### Raus
+Nature's Will|Derevi, Empyrial Tactician|Druids' Repository|Demonic Consultation|Laboratory Maniac
+#### Rein
+Sword of Feast and Famine|Bear Umbra
+
+### Interaktion
+#### Raus
+Swan Song
+#### Rein
+Remand|Thoughtseize|Duress|Inquisition of Kozilek
+
+### Card Draw
+#### Raus
+Compost|Mystic Remora|Rhystic Study
+#### Rein
+Jace, the Mind Sculptor
+
+# Decklisten
+
+# https://www.mtgvault.com/kirdie2/decks/najeela/ Multi
+# 1v1
+
+
 
 # Mulligans
 # 1.
