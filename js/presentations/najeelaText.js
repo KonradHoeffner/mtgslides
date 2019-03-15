@@ -88,11 +88,11 @@ Dack Fayden|Secure the Wastes|Mother of Runes|Tithe
 # 32 Länder
 # natürlich 10 Duals, durch Shocklands ersetzbar
 Badlands|Bayou|Plateau|Savannah|Scrubland|Taiga|Tropical Island|Tundra|Underground Sea|Volcanic Island
-# 8 Fetches
-Arid Mesa|Bloodstained Mire|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Windswept Heath|Wooded Foothills
-# 7 grün blaue shock lands die man am anfang braucht für cantrips und mana dorks
+# 9 Fetches
+Arid Mesa|Bloodstained Mire|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Windswept Heath|Wooded Foothills|Verdant Catacombs
+# 6 grün blaue shock lands die man am anfang braucht für cantrips und mana dorks ohne Temple Garden
 # Weiß Rot Schwarz haben wir am wenigsten und brauchen wir nicht so früh außer für Commander, daher nur 7 Shock Lands
-Breeding Pool|Hallowed Fountain|Overgrown Tomb|Steam Vents|Stomping Ground|Verdant Catacombs|Watery Grave
+Breeding Pool|Hallowed Fountain|Overgrown Tomb|Steam Vents|Stomping Ground|Watery Grave
 # Ersetzen durch egal was hauptsache nicht getappt ins Spiel
 City of Brass|Command Tower|Exotic Orchard|Mana Confluence
 Gaea's Cradle|Urborg, Tomb of Yawgmoth|Forest
@@ -124,28 +124,33 @@ Ad Nauseam|Necropotence
 ## 1v1 Variante
 ### Combo
 #### Raus
-Nature's Will|Derevi, Empyrial Tactician|Druids' Repository|Demonic Consultation|Laboratory Maniac
+Nature's Will|Druids' Repository|Demonic Consultation|Laboratory Maniac
 #### Rein
-Sword of Feast and Famine|Bear Umbra
+Sword of Feast and Famine|Bear Umbra|Godless Shrine|Temple Garden
 
-### Interaktion
+### Interaktion +5
 #### Raus
 Swan Song
 #### Rein
-Remand|Thoughtseize|Duress|Inquisition of Kozilek
+Remand|Daze|Thoughtseize|Duress|Inquisition of Kozilek|Strip Mine
 
-### Card Draw
+### Card Draw -4 -> +1
 #### Raus
-Compost|Mystic Remora|Rhystic Study
+Compost|Mystic Remora|Rhystic Study|Necropotence|Ad Nauseam
 #### Rein
 Jace, the Mind Sculptor
+
+### Anderes +2
+#### Rein
+Stoneforge Mystic
 
 # Decklisten
 
 # https://www.mtgvault.com/kirdie2/decks/najeela/ Multi
 # 1v1
 
-
+# Dagegen spielen
+## To be added
 
 # Mulligans
 # 1.
