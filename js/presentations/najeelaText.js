@@ -19,7 +19,7 @@ Nature's Will|Derevi, Empyrial Tactician|Druids' Repository
 ## 1v1
 Sword of Feast and Famine|Bear Umbra
 
-# Zwei Arten von Combos: Die Landcombos und die Kreaturencombos
+# Die Landcombos und die Kreaturencombos
 
 ## Landcombos
 # Landcombos ist es egal wieviele Kreaturen man hat, wichtig ist nur dass Gegner angegriffen werden oder Schaden bekommen
@@ -35,7 +35,7 @@ Nature's Will|City of Brass|Tundra
 # Derevi: Kampfschaden, Druids' Repository: Angreifen, Cryptolith Rite: Ungetappt und ohne Einsatzverzögerung, Phyrexian Altar: opfern können
 Derevi, Empyrial Tactician|Druids' Repository|Cryptolith Rite|Phyrexian Altar
 
-# Najeela und 3 Combo Pieces hat, immer noch 96 Karten übrig, wie füllt man die?
+# Najeela und 3 Combo Pieces, immer noch 96 Karten übrig
 Demonic Tutor|Vampiric Tutor|Force of Will|Mana Drain|Mystic Remora|Brainstorm|Carpet of Flowers|Sylvan Library|Swords to Plowshares|Pyroblast
 
 # 14 Ramp spells: Najeela Turn 1 oder 2
@@ -57,12 +57,12 @@ Counterspell|Dispel|Evasive Action|Force of Will|Negate|Mana Drain|Mana Leak|Men
 Pyroblast|Red Elemental Blast
 
 # Hate Cards
-Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod
+Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod|Containment Priest
 
 # 8 Removal
 Abrupt Decay|Cyclonic Rift|Fatal Push|Fire Covenant|Lightning Bolt|Nature's Claim|Swords to Plowshares|Wear // Tear
 
-# Manakurve sehr niedrig, Card Draw wichtig
+# Manakurve niedrig -> Card Draw
 Compost|Mystic Remora|Sylvan Library|Rhystic Study|Skullclamp|Ad Nauseam|Necropotence|Urborg, Tomb of Yawgmoth
 Dark Confidant|Edric, Spymaster of Trest|Mindblade Render|Tymna the Weaver
 
@@ -86,7 +86,7 @@ Breeding Pool|Hallowed Fountain|Overgrown Tomb|Steam Vents|Stomping Ground|Water
 City of Brass|Command Tower|Exotic Orchard|Mana Confluence
 Gaea's Cradle|Urborg, Tomb of Yawgmoth|Forest
 
-# Wie spielt man das Deck?
+# Gameplan
 ## Zuerst Ramp, Mystic Remora|Mother of Runes
 Mana Crypt|Sol Ring|Mox Diamond|Carpet of Flowers|Utopia Sprawl|Wild Growth|Birds of Paradise|Deathrite Shaman|Mystic Remora|Mother of Runes
 
@@ -96,7 +96,7 @@ Ponder|Brainstorm|Preordain|Gitaxian Probe
 ## Dann den Commander
 Najeela, the Blade-Blossom
 
-## Counter offen halten um Najeela zu beschützen und zu verhindern das andere gewinnen
+## Counter offen
 Counterspell|Dispel|Evasive Action|Force of Will|Negate|Mana Drain|Mana Leak|Mental Misstep|Spell Pierce|Swan Song
 # Hate Pieces und größere Card Draw Engines aufsetzen
 Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod|Rhystic Study|Compost
@@ -111,7 +111,7 @@ Nature's Will|Derevi, Empyrial Tactician|Druids' Repository|Demonic Tutor|Vampir
 Ad Nauseam|Necropotence
 
 # Backup Gameplan
-Tainted Pact|Demonic Consultation|Laboratory Maniac
+Secure the Wastes|Tainted Pact|Demonic Consultation|Laboratory Maniac
 
 ## 1v1 15 Card Sideboard
 ### Combo
@@ -122,9 +122,9 @@ Sword of Feast and Famine|Bear Umbra|Godless Shrine|Temple Garden
 
 ### Interaktion +2
 #### Out
-Swan Song|Red elemental blast|rest in peace|Grafdigger's cage 
+Swan Song|Red elemental blast|rest in peace|Grafdigger's cage|Containment Priest
 #### In
-Remand|Daze|Thoughtseize|Duress|Inquisition of Kozilek|Strip Mine
+Remand|Daze|Thoughtseize|Duress|Inquisition of Kozilek|Strip Mine|Wasteland
 
 ### Card Draw -4 -> -2
 #### Out
@@ -134,12 +134,12 @@ Jace, the Mind Sculptor
 
 ### Anderes +2 -> 0
 #### Out
-Secure the Wastes
+Negate
 #### In
 Stoneforge Mystic| Sword of Feast and Famine| Umezawa's Jitte
 
 # Dagegen spielen
-Najeela, the Blade-Blossom|Swords to Plowshares
+Najeela, the Blade-Blossom|Mana Leak|Swords to Plowshares|Toxic Deluge|Fire Covenant|Cyclonic Rift|Humility|Elesh Norn, Grand Cenobite|Umezawa's Jitte
 
 # Mulligans
 # 1.
