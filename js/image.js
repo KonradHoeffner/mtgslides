@@ -1,6 +1,6 @@
 let cache = {};
 
-const format = "png";
+const format = "large";
 
 async function loadCache()
 {
