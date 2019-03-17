@@ -1,19 +1,9 @@
 var najeelaText =
 `Najeela, the Blade-Blossom
+# https://www.mtgvault.com/kirdie2/decks/najeela/
 
-# Passende Musik finden
-# Najeela, die ultimate Commanderin
-# Warum ist Najeela so gut? Die macht doch nur Schaden. Kreaturen sind doch blöd. Ich könnte doch
-# Tymna spielen und Karten ziehen. Edric spielen und noch mehr Karten ziehen. Zur spielen und Verzauberungen ins Spiel bringen.
-
-# best of 25 Jahren Magic 25
 # beste Karten aus 5 Farben
 Demonic Tutor|Vampiric Tutor|Force of Will|Mana Drain|Mystic Remora|Brainstorm|Carpet of Flowers|Sylvan Library|Swords to Plowshares|Pyroblast
-# Schwarze Tutoren
-# Blau
-# Grün
-# Weiß
-# Rot
 
 #  20 life vs 120 life
 Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears|Grizzly Bears
@@ -91,9 +81,8 @@ Badlands|Bayou|Plateau|Savannah|Scrubland|Taiga|Tropical Island|Tundra|Undergrou
 # 9 Fetches
 Arid Mesa|Bloodstained Mire|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Windswept Heath|Wooded Foothills|Verdant Catacombs
 # 6 grün blaue shock lands die man am anfang braucht für cantrips und mana dorks ohne Temple Garden
-# Weiß Rot Schwarz haben wir am wenigsten und brauchen wir nicht so früh außer für Commander, daher nur 7 Shock Lands
 Breeding Pool|Hallowed Fountain|Overgrown Tomb|Steam Vents|Stomping Ground|Watery Grave
-# Ersetzen durch egal was hauptsache nicht getappt ins Spiel
+# Ersetzen durch beliebige ungetappte
 City of Brass|Command Tower|Exotic Orchard|Mana Confluence
 Gaea's Cradle|Urborg, Tomb of Yawgmoth|Forest
 
@@ -121,36 +110,36 @@ Nature's Will|Derevi, Empyrial Tactician|Druids' Repository|Demonic Tutor|Vampir
 # Nachfüllen
 Ad Nauseam|Necropotence
 
-## 1v1 Variante
+# Backup Gameplan
+Tainted Pact|Demonic Consultation|Laboratory Maniac
+
+## 1v1 15 Card Sideboard
 ### Combo
-#### Raus
+#### Out
 Nature's Will|Druids' Repository|Demonic Consultation|Laboratory Maniac
-#### Rein
+#### In
 Sword of Feast and Famine|Bear Umbra|Godless Shrine|Temple Garden
 
-### Interaktion +5
-#### Raus
-Swan Song
-#### Rein
+### Interaktion +2
+#### Out
+Swan Song|Red elemental blast|rest in peace|Grafdigger's cage 
+#### In
 Remand|Daze|Thoughtseize|Duress|Inquisition of Kozilek|Strip Mine
 
-### Card Draw -4 -> +1
-#### Raus
+### Card Draw -4 -> -2
+#### Out
 Compost|Mystic Remora|Rhystic Study|Necropotence|Ad Nauseam
 #### Rein
 Jace, the Mind Sculptor
 
-### Anderes +2
-#### Rein
-Stoneforge Mystic
-
-# Decklisten
-
-# https://www.mtgvault.com/kirdie2/decks/najeela/ Multi
-# 1v1
+### Anderes +2 -> 0
+#### Out
+Secure the Wastes
+#### In
+Stoneforge Mystic| Sword of Feast and Famine| Umezawa's Jitte
 
 # Dagegen spielen
-## To be added
+Najeela, the Blade-Blossom|Swords to Plowshares
 
 # Mulligans
 # 1.
