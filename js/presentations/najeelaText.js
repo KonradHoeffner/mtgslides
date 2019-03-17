@@ -99,7 +99,7 @@ Najeela, the Blade-Blossom
 ## Counter offen halten um Najeela zu beschützen und zu verhindern das andere gewinnen
 Counterspell|Dispel|Evasive Action|Force of Will|Negate|Mana Drain|Mana Leak|Mental Misstep|Spell Pierce|Swan Song
 # Hate Pieces und größere Card Draw Engines aufsetzen
-Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod|Rystic Study|Compost
+Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod|Rhystic Study|Compost
 
 # Removal einsetzen 
 Abrupt Decay|Cyclonic Rift|Fatal Push|Fire Covenant|Lightning Bolt|Nature's Claim|Swords to Plowshares|Wear // Tear
@@ -143,18 +143,19 @@ Najeela, the Blade-Blossom|Swords to Plowshares
 
 # Mulligans
 # 1.
-Edric, Spymaster of Trest|Swan Song|Watery Grave|Llanowar Elves|Carpet of Flowers|Cyclonic Rift|Grafdigger's Cage # Mull
-Nature's Will|Compost|Vampiric Tutor|Ad Nauseam|Mental Misstep|Bayou|Enlightened Tutor # Mull
-Llanowar Elves|Misty Rainforest|Badlands|Spell Pierce|Mother of Runes|Dack Fayden # Keep
+Edric, Spymaster of Trest|Swan Song|Watery Grave|Llanowar Elves|Carpet of Flowers|Cyclonic Rift|Grafdigger's Cage
+Nature's Will|Compost|Vampiric Tutor|Ad Nauseam|Mental Misstep|Bayou|Enlightened Tutor
+Llanowar Elves|Misty Rainforest|Badlands|Spell Pierce|Mother of Runes|Dack Fayden
+
 Llanowar Elves|Misty Rainforest|Badlands|Spell Pierce|Mother of Runes|Dack Fayden|Gaea's Cradle
 Tropical Island|Llanowar Elves
 Tropical Island|Badlands|Llanowar Elves|Najeela, the Blade-Blossom
 
 # 2. 
-Llanowar Elves|Watery Grave|Utopia Sprawl|Urborg, Tomb of Yawgmoth|Negate|Demonic Consultation|Mana Confluence # Keep
+Llanowar Elves|Watery Grave|Utopia Sprawl|Urborg, Tomb of Yawgmoth|Negate|Demonic Consultation|Mana Confluence
 
 # 3.
-Underground Sea|Mother of Runes|Necropotence|Bloom Tender|Tropical Island|Laboratory Maniac|Mana Drain # Mull
-Laboratory Maniac|Swan Song|Dark Confidant|Counterspell|Aven Mindcensor|Urborg, Tomb of Yawgmoth|Negate # Mull
-Utopia Sprawl|Urborg, Tomb of Yawgmoth|Tymna the Weaver|Bayou|Dispel|Mother of Runes # Keep
+Underground Sea|Mother of Runes|Necropotence|Bloom Tender|Tropical Island|Laboratory Maniac|Mana Drain
+Laboratory Maniac|Swan Song|Dark Confidant|Counterspell|Aven Mindcensor|Urborg, Tomb of Yawgmoth|Negate
+Utopia Sprawl|Urborg, Tomb of Yawgmoth|Tymna the Weaver|Bayou|Dispel|Mother of Runes
 `;
