@@ -1,4 +1,4 @@
-var muldrothaText =
+var tasigurText =
 `Tasigur, the Golden Fang
 
 # Lands
