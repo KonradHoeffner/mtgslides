@@ -21,7 +21,7 @@ Birds of Paradise|Deathrite Shaman|Arbor Elf|Bloom Tender|Priest of Titania
 # 3 Enchantments
 Carpet of Flowers|Exploration|Utopia Spree
 # Alternativen
-Talisman of Dominance|Talisman of Curiosity|Talisman of Resilence|Thought Vessel|Mana Vault|Llanowar Elves|Fyndhorn Elves|Burgeoning
+Talisman of Dominance|Talisman of Curiosity|Talisman of Resilience|Thought Vessel|Mana Vault|Llanowar Elves|Fyndhorn Elves|Burgeoning
 
 #Card Draw
 Mystic Remora|Rhystic Study|Compost|Sylvan Library|Runic Armasaur|Timetwister|Notion Thief|Jace, the Mind Sculptor
