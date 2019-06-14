@@ -34,23 +34,25 @@ Ponder|Brainstorm|Preordain
 
 #Interaction
 # Anti Kreatur
-Toxic Deluge|Reality Shift|Gilded Drake|Treachery
+Toxic Deluge|Massacre|Reality Shift|Gilded Drake|Treachery
 # Counterspells
-Mana Drain|Force of Will|Counterspell|Narset's Reversal|Mana Leak|Mental Misstep|Swan Song| Negate
+Mana Drain|Force of Will|Counterspell|Narset's Reversal|Mana Leak|Mental Misstep|Swan Song|Negate
 # Andere 
-Cyclonic Rift|Abrupt Decay|Deathrite Shaman
-Crop Rotation|Bojuka Bog|Glacial Chasm
+Cyclonic Rift|Abrupt Decay|Deathrite Shaman|Crop Rotation|Bojuka Bog|Glacial Chasm
 # Alternativen
-Pernicious Deed|Nihil Spellbomb|Leyline of the Void|Dispel|Dimir Charm|Beast Within|Rapid Hybridization|Flusterstorm|Pact of Negation
+Pernicious Deed|Nihil Spellbomb|Leyline of the Void|Dispel|Dimir Charm|Beast Within|Rapid Hybridization|Flusterstorm|Pact of Negation|Damnation
 
 # Tutoren
 Demonic Tutor|Vampiric Tutor|Intuition|Mystical Tutor
 
-# Other
-Life from the Loam
+# Combo
+Isochron Scepter|Dramatic 
 
 
 # Countering Tasigur
+# Threats
+Cyclonic Rift|Paradox Engine|Isochron Scepter|Bloom Tender|Aetherflux Reservoir|Arbor Elf
+# What
 Thrasios, Triton Hero|Tymna, the Weaver|Carpet of Flowers|Ashiok, Dream Render|Bojuka Bog
 
 `;
