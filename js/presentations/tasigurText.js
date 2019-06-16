@@ -19,7 +19,7 @@ Sol Ring|Mana Crypt|Fellwar Stone|Mox Diamond|Simic Signet|Golgari Signet|Dimir 
 # 5 Dorks
 Birds of Paradise|Deathrite Shaman|Arbor Elf|Bloom Tender|Priest of Titania
 # 3 Enchantments
-Carpet of Flowers|Exploration|Utopia Spree
+Carpet of Flowers|Exploration|Utopia Sprawl
 # Alternativen
 Talisman of Dominance|Talisman of Curiosity|Talisman of Resilience|Thought Vessel|Mana Vault|Llanowar Elves|Fyndhorn Elves|Burgeoning
 
@@ -46,13 +46,13 @@ Pernicious Deed|Nihil Spellbomb|Leyline of the Void|Dispel|Dimir Charm|Beast Wit
 Demonic Tutor|Vampiric Tutor|Intuition|Mystical Tutor
 
 # Combo
-Isochron Scepter|Dramatic 
+Isochron Scepter|Dramatic Reversal|Swan Song|Copy Artifact|Paradox Engine|Aetherflux Reservoir
+Freed from the Real|Bloom Tender|Arbor Elf|Utopia Sprawl
 
 
 # Countering Tasigur
 # Threats
-Cyclonic Rift|Paradox Engine|Isochron Scepter|Bloom Tender|Aetherflux Reservoir|Arbor Elf
+Cyclonic Rift|Paradox Engine|Isochron Scepter|Aetherflux Reservoir|Freed from the Real
 # What
-Thrasios, Triton Hero|Tymna, the Weaver|Carpet of Flowers|Ashiok, Dream Render|Bojuka Bog
-
+Carpet of Flowers|Deathrite Shaman|Rest in Peace|Ashiok, Dream Render|Aura Shards|Aura of Silence
 `;
