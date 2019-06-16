@@ -23,11 +23,15 @@ Carpet of Flowers|Exploration|Utopia Sprawl
 # Alternativen
 Talisman of Dominance|Talisman of Curiosity|Talisman of Resilience|Thought Vessel|Mana Vault|Llanowar Elves|Fyndhorn Elves|Burgeoning
 
-#Card Draw
-Mystic Remora|Rhystic Study|Compost|Sylvan Library|Runic Armasaur|Timetwister|Notion Thief|Jace, the Mind Sculptor
-Fact or Fiction|Narset, Parter of Veils|Life from the Loam
+#Card Advantage 
+Mystic Remora|Rhystic Study|Compost|Sylvan Library|Runic Armasaur|Timetwister|Notion Thief|Narset, Parter of Veils|Jace, the Mind Sculptor|Fact or Fiction
+Necropotence|Bolas's Citadel
+#Rekursion
+Yawgmoth's Will|Regrowth|Tasigur, the Golden Fang|Snapcaster Mage|Life from the Loam
+# Card Advantage über Länder
+Intuition|Life from the Loam|Strip Mine|Polluted Delta|Cephalid Coliseum|Bojuka Bog|Glacial Chasm|Crop Rotation
 #Alternativen
-Dark Confidant|Verity Circle|Ad Nauseam|Nezahal, Primal Tide| Eldritch Evolution|Windfall
+Dark Confidant|Verity Circle|Ad Nauseam|Nezahal, Primal Tide| Eldritch Evolution|Windfall|Noxious Revival|Chain of Vapor
 
 #Cantrips
 Ponder|Brainstorm|Preordain
@@ -35,12 +39,14 @@ Ponder|Brainstorm|Preordain
 #Interaction
 # Anti Kreatur
 Toxic Deluge|Massacre|Reality Shift|Gilded Drake|Treachery
-# Counterspells
+# Counterspells 8
 Mana Drain|Force of Will|Counterspell|Narset's Reversal|Mana Leak|Mental Misstep|Swan Song|Negate
+# Anti Friedhof
+Deathrite Shaman|Crop Rotation|Bojuka Bog|Ashiok, Dream Render
 # Andere 
-Cyclonic Rift|Abrupt Decay|Deathrite Shaman|Crop Rotation|Bojuka Bog|Glacial Chasm
+Cyclonic Rift|Abrupt Decay|Assassin's Trophy
 # Alternativen
-Pernicious Deed|Nihil Spellbomb|Leyline of the Void|Dispel|Dimir Charm|Beast Within|Rapid Hybridization|Flusterstorm|Pact of Negation|Damnation
+Pernicious Deed|Nihil Spellbomb|Leyline of the Void|Dispel|Dimir Charm|Beast Within|Rapid Hybridization|Flusterstorm|Pact of Negation|Damnation|Fatal Push
 
 # Tutoren
 Demonic Tutor|Vampiric Tutor|Intuition|Mystical Tutor
@@ -54,5 +60,5 @@ Freed from the Real|Bloom Tender|Arbor Elf|Utopia Sprawl
 # Threats
 Cyclonic Rift|Paradox Engine|Isochron Scepter|Aetherflux Reservoir|Freed from the Real
 # What
-Carpet of Flowers|Deathrite Shaman|Rest in Peace|Ashiok, Dream Render|Aura Shards|Aura of Silence
+Mana Crypt|Carpet of Flowers|Deathrite Shaman|Rest in Peace|Ashiok, Dream Render|Aura Shards|Aura of Silence
 `;
