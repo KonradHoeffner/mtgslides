@@ -1,22 +1,31 @@
 let cache = {};
 
+
 const format = "large";
 
-async function loadCache()
+function loadCache()
 {
-	const s = localStorage.getItem("img."+format);
+	const s = localStorage.getItem("img"+format);
 	if(s) {cache = JSON.parse(s);}
 }
 
-async function saveCache()
+function saveCache()
 {
-	localStorage.setItem("img."+format,JSON.stringify(cache));
+	localStorage.setItem("img"+format,JSON.stringify(cache));
 }
 
 async function imageUrl(cardName)
 {
-	let url = null;
-	if((url=cache[cardName])) {return url;}
+	let url = cards[cardName];
+	if(url) return url;
+
+	if((url=cache[cardName]))
+	{
+		console.warn(cardName+" not in index file, load from cache.");
+		return url;
+	}
+	console.warn(cardName+" neither in index nor cache, load from scryfall.");
+
 	const uri = 'https://api.scryfall.com/cards/search?q='+encodeURIComponent(`!"${cardName}"++not:reprint`);
 	const json = await fetch(uri).then(res=>res.json());
 	if(!json||!json.data)

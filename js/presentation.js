@@ -1,13 +1,13 @@
 class Presentation
 {
 	constructor(slides)
-	{	
+	{
 		this.slides = slides;
 		console.log(slides);
 	}
 
 	static async parse(text)
-	{
+	{		
 		loadCache();
 		const slides = [];
 		const lines = text.split("\n");
@@ -24,7 +24,7 @@ class Presentation
 				cardName = cardName.trim();
 				if(!cardName) {continue;}
 				const card = {name: cardName};
-				card.img = await imageUrl(cardName); 
+				card.img = await imageUrl(cardName);
 				slide.push(card);
 			}
 		}
