@@ -5,13 +5,21 @@ const format = "large";
 
 function loadCache()
 {
-	const s = localStorage.getItem("img"+format);
-	if(s) {cache = JSON.parse(s);}
+	try
+	{
+		const s = localStorage.getItem("img"+format);
+		if(s) {cache = JSON.parse(s);}
+	}
+	catch(e) {console.warn("Couldn't initialize cache.",e.name);}
 }
 
 function saveCache()
 {
-	localStorage.setItem("img"+format,JSON.stringify(cache));
+	try
+	{
+		localStorage.setItem("img"+format,JSON.stringify(cache));
+	}
+	catch(e) {console.warn("Couldn't save cache.",e.name);}
 }
 
 async function imageUrl(cardName)
