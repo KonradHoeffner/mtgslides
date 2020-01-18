@@ -13,14 +13,14 @@ Bloom Tender|Faeburrow Elder|Joraga Treespeaker|Lotus Cobra|Priest of Titania
 Chulane, Teller of Tales|Birds of Paradise|Avacyn's Pilgrim|Elvish Mystic|Fyndhorn Elves|Llanowar Elves|Arbor Elf|Noble Hierarch
 
 # Threats to us, spells and permanents
-Force of Will|Manadrain|Counterspell|Pyroblast|Swords to Plowshares|Assassin's Trophy|Toxic Deluge|Wrath of God|Supreme Verdict|Fire Covenant
-Humility|Eidolon of Rhetoric|Rule of Law|Arcane Laboratory|The Tabernacle of Pendrell Value|Elesh Norn, Grand Cenobite|Massacre Wurm|Oko, Thief of Crowns
+Force of Will|Mana Drain|Counterspell|Pyroblast|Swords to Plowshares|Assassin's Trophy|Toxic Deluge|Wrath of God|Supreme Verdict|Fire Covenant
+Humility|Eidolon of Rhetoric|Rule of Law|Arcane Laboratory|The Tabernacle at Pendrell Vale|Elesh Norn, Grand Cenobite|Massacre Wurm|Oko, Thief of Crowns
 
 # Counterspells
 Force of Will|Mana Drain|Counterspell|Negate|Mental Misstep|Swan Song|Veil of Summer
 # Removal
 Swords to Plowshares|Path to Exile|Gilded Drake|Treachery|Winds of Abandon
-Cyclonic Rift|Brazen Borrower|Nature's Claim|Aura Shards|Reclamation Sage|Oko, Thief of Crowns
+Cyclonic Rift|Brazen Borrower // Petty Theft|Nature's Claim|Aura Shards|Reclamation Sage|Oko, Thief of Crowns
 
 # Hate Cards
 Rest in Peace|Grafdigger's Cage|Containment Priest|Deafening Silence|Mana Breach|Aven Mindcensor
@@ -37,7 +37,7 @@ Elesh Norn, Grand Cenobite|Mirror Entity|Emrakul, the Promised End
 # Combo
 Chulane, Teller of Tales|Cloudstone Curio|Merfolk of the Pearl Trident|Merfolk of the Pearl Trident|Island|Island
 Chulane, Teller of Tales|Aluren|Shrieking Drake|Man-o'-War
-Chulane, Teller of Tales|Intruder Alarm|Bloom Tender|Llanowar Elves|Merfolk of the Pear Trident
+Chulane, Teller of Tales|Intruder Alarm|Bloom Tender|Llanowar Elves|Merfolk of the Pearl Trident
 
 
 # 32 Länder
