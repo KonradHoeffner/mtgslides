@@ -2,94 +2,48 @@ var chulaneText =
 `Chulane, Teller of Tales
 # https://www.mtgvault.com/kirdie2/decks/chulane/
 
-# Ramp spells: Chullen Turn 3 gut, follow up wichtig
-# Very creature heavy
+# Kreaturenlastiges Midrange Deck, lange interaktive Spiele
+# Draw + Land wichtigste Fähigkeit, sehr flexibel, Hauptsache Kreaturen
+# einige Schlüsselkarten, meine Liste, nur 3 Farben, Commander zentral
+# Chullen schnell raus, also viel Ramp, aber auch follow up bevor er stirbt
+# noncreature ramp
+Sol Ring|Mana Crypt|Carpet of Flowers|Earthcraft|Smothering Tithe
+# Manadorks doppelt nützlich, schnell raus und Fähigkeit auslösen
+Bloom Tender|Faeburrow Elder|Joraga Treespeaker|Lotus Cobra|Priest of Titania
+Chulane, Teller of Tales|Birds of Paradise|Avacyn's Pilgrim|Elvish Mystic|Fyndhorn Elves|Llanowar Elves|Arbor Elf|Noble Hierarch
 
-#  nur 4 Artefakte
-Sol Ring|Mana Crypt|Mox Diamond
-# 2 Enchantments, sprawl on basic for earthcraft
-Carpet of Flowers|Utopia Sprawl
+# Threats to us, spells and permanents
+Force of Will|Manadrain|Counterspell|Pyroblast|Swords to Plowshares|Assassin's Trophy|Toxic Deluge|Wrath of God|Supreme Verdict|Fire Covenant
+Humility|Eidolon of Rhetoric|Rule of Law|Arcane Laboratory|The Tabernacle of Pendrell Value|Elesh Norn, Grand Cenobite|Massacre Wurm|Oko, Thief of Crowns
 
-# Manadorks
-Bloom Tender|Joraga Treespeaker|Lotus Cobra|Priest of Titania
-Birds of Paradise|Avacyn's Pilgrim|Elvish Mystic|Fyndhorn Elves|Llanowar Elves|Arbor Elf|Noble Hierarch
-
-# Synergies and Combos
-
-# Threats
-Toxic Deluge|Wrath of God|Supreme Verdict|
-Treachery
-
-# old text
-
-# Protection
-Mana Drain|Counterspell||Force of Will|Negate|Mana Drain|Mana Leak|Mental Misstep|Spell Pierce|Swan Song
-Pyroblast|Red Elemental Blast
-# Not used
-
+# Counterspells
+Force of Will|Mana Drain|Counterspell|Negate|Mental Misstep|Swan Song|Veil of Summer
+# Removal
+Swords to Plowshares|Path to Exile|Gilded Drake|Treachery|Winds of Abandon
+Cyclonic Rift|Brazen Borrower|Nature's Claim|Aura Shards|Reclamation Sage|Oko, Thief of Crowns
 
 # Hate Cards
-Rest in Peace|Grafdigger's Cage|Containment Priest|Aven Mindcensor|Null Rod|Containment Priest
+Rest in Peace|Grafdigger's Cage|Containment Priest|Deafening Silence|Mana Breach|Aven Mindcensor
 
-# 8 Removal
-Abrupt Decay|Cyclonic Rift|Fatal Push|Fire Covenant|Lightning Bolt|Nature's Claim|Swords to Plowshares|Wear // Tear
-
-# Manakurve niedrig -> Card Draw
-Compost|Mystic Remora|Sylvan Library|Rhystic Study|Skullclamp|Ad Nauseam|Necropotence|Urborg, Tomb of Yawgmoth
-Dark Confidant|Edric, Spymaster of Trest|Mindblade Render|Tymna the Weaver
+# Rebuild
+Mystic Remora|Rhystic Study|Sylvan Library|Edric, Spymaster of Trest|Consecrated Sphinx|Tatyova, Benthic Druid|Sun Titan|Timetwister|Time Spiral
 
 # Tutoren
-Demonic Tutor|Vampiric Tutor|Enlightened Tutor|Tainted Pact|Demonic Consultation
+Enlightened Tutor|Worldly Tutor|Eladamri's Call|Ranger-Captain of Eos
 
-# Bonuscombo
-Laboratory Maniac|Tainted Pact|Demonic Consultation
+# Win Condition
+# Combat
+Elesh Norn, Grand Cenobite|Mirror Entity|Emrakul, the Promised End
+# Combo
+Chulane, Teller of Tales|Cloudstone Curio|Merfolk of the Pearl Trident|Merfolk of the Pearl Trident|Island|Island
+Chulane, Teller of Tales|Aluren|Shrieking Drake|Man-o'-War
+Chulane, Teller of Tales|Intruder Alarm|Bloom Tender|Llanowar Elves|Merfolk of the Pear Trident
 
-# Anderes
-Dack Fayden|Secure the Wastes|Mother of Runes|Tithe
 
 # 32 Länder
-# natürlich 10 Duals, durch Shocklands ersetzbar
-Badlands|Bayou|Plateau|Savannah|Scrubland|Taiga|Tropical Island|Tundra|Underground Sea|Volcanic Island
-# 9 Fetches
-Arid Mesa|Bloodstained Mire|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Windswept Heath|Wooded Foothills|Verdant Catacombs
-# 6 grün blaue shock lands die man am anfang braucht für cantrips und mana dorks ohne Temple Garden
-Breeding Pool|Hallowed Fountain|Overgrown Tomb|Steam Vents|Stomping Ground|Watery Grave
-# Ersetzen durch beliebige ungetappte
-City of Brass|Command Tower|Exotic Orchard|Mana Confluence
-Gaea's Cradle|Urborg, Tomb of Yawgmoth|Forest
-
-# Nachfüllen
-Ad Nauseam|Necropotence
-
-# Backup Gameplan
-Secure the Wastes|Tainted Pact|Demonic Consultation|Laboratory Maniac
-
-## 1v1 15 Card Sideboard
-### Combo
-#### Out
-Nature's Will|Druids' Repository|Demonic Consultation|Laboratory Maniac
-#### In
-Sword of Feast and Famine|Bear Umbra|Godless Shrine|Temple Garden
-
-### Interaktion +2
-#### Out
-Swan Song|Red elemental blast|rest in peace|Grafdigger's cage|Containment Priest
-#### In
-Remand|Daze|Thoughtseize|Duress|Inquisition of Kozilek|Strip Mine|Wasteland
-
-### Card Draw -4 -> -2
-#### Out
-Compost|Mystic Remora|Rhystic Study|Necropotence|Ad Nauseam
-#### Rein
-Jace, the Mind Sculptor
-
-### Anderes +2 -> 0
-#### Out
-Negate
-#### In
-Stoneforge Mystic| Sword of Feast and Famine| Umezawa's Jitte
-
-# Dagegen spielen
-Chulane|Mana Drain|Swords to Plowshares|Toxic Deluge|Fire Covenant|Cyclonic Rift|Humility|Elesh Norn, Grand Cenobite|Umezawa's Jitte
-
+Savannah|Tropical Island|Tundra|Breeding Pool|Hallowed Fountain|Temple Garden|Island|Forest|Plains
+# 9 Fetches, 3 reichen aber auch
+Arid Mesa|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Windswept Heath|Wooded Foothills|Verdant Catacombs|Scalding Tarn
+City of Brass|Command Tower|Gaea's Cradle|Cavern of Souls|Strip Mine|Homeward Path
+Yisan, the Wanderer Bard|Wirewood Symbiote|Priest of Titania|Mirror Entity
 `;
