@@ -45,5 +45,4 @@ Savannah|Tropical Island|Tundra|Breeding Pool|Hallowed Fountain|Temple Garden|Is
 # 9 Fetches, 3 reichen aber auch
 Arid Mesa|Flooded Strand|Marsh Flats|Misty Rainforest|Polluted Delta|Windswept Heath|Wooded Foothills|Verdant Catacombs|Scalding Tarn
 City of Brass|Command Tower|Gaea's Cradle|Cavern of Souls|Strip Mine|Homeward Path
-
 `;
