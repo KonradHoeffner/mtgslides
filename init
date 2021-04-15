@@ -1,2 +1,3 @@
-wget https://archive.scryfall.com/json/scryfall-default-cards.json -O scryfall-default-cards.json
+URI=`curl https://api.scryfall.com/bulk-data/default_cards | grep -oP '"download_uri":"\K[^"]*'`;
+wget $URI -O scryfall-default-cards.json
 node node/createIndex.js
