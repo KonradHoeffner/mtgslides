@@ -9,9 +9,6 @@ const tmp = [];
 
 // split double faced cards
 for (let card of cards) {
-	if (card.name.includes("Jace, Vryn's"))
-		console.log(card.name.includes("//") && !card.image_uris && !!card.card_faces);
-
 	if (card.name.includes("//") && !card.image_uris && !!card.card_faces) {
 		const [frontName, backName] = card.name.split(" // ");
 		[front, back] = [Object.assign({}, card), Object.assign({}, card)];
@@ -21,9 +18,6 @@ for (let card of cards) {
 		back.image_uris = card.card_faces[1].image_uris;
 		tmp.push(front);
 		tmp.push(back);
-		if (card.name.includes("Jace, Vryn's")) {
-			console.log(front, back);
-		}
 	} else {
 		tmp.push(card);
 	}
@@ -43,6 +37,7 @@ for (let card of cards) {
 		continue;
 	}
 	if (card.set_name === "San Diego Comic-Con 2015") continue;
+	if (card.promo) continue; // promos should have normal versions, which look better on screen
 	if (card.lang !== "en") continue; // ignore japanese alternate art
 	// double faced cards
 	const uris = card.image_uris;
