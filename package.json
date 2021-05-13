@@ -1,0 +1,22 @@
+{
+	"name": "mtgslides",
+	"description": "MTG slide show web application",
+	"version": "0.1.0",
+	"scripts": {
+		"download": "sh ./download",
+		"build": "node node/createIndex.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/KonradHoeffner/mtgslides.git"
+	},
+	"keywords": [
+		"mtg"
+	],
+	"author": "Konrad Höffner",
+	"bugs": {
+		"url": "https://github.com/KonradHoeffner/mtgslides/issues"
+	},
+	"homepage": "https://github.com/KonradHoeffner/mtgslides#readme"
+}
