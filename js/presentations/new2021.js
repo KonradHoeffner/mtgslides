@@ -22,20 +22,44 @@ Clearwater Pathway |	Murkwater Pathway | Cragcrown Pathway |	Timbercrown Pathway
 Needleverge Pathway |	Pillarverge Pathway | Hengegate Pathway | Mistgate Pathway | Blightstep Pathway | Searstep Pathway | Darkbore Pathway | Slitherbore Pathway | Barkchannel Pathway | Tidechannel Pathway
 # Snow Duals
 Glacial Floodplain | Ice Tunnel | Sulfurous Mire | Highland Forest | Arctic Treeline | Snowfield Sinkhole | Volatile Fjord | Woodland Chasm | Alpine Meadow | Rimewood Falls
-
-
+# Flip Lands
+ Kabira Takedown | Kabira Plateau | Emeria's Call | Emeria, Shattered Skyclave | Sea Gate Restoration | Sea Gate, Reborn | Turntimber Symbiosis | Turntimber, Serpentine Wood | Shatterskull Smashing | Shatterskull, the Hammer Pass
+# Other
+Prismatic Vista | Nurturing Peatland | Emergence Zone | Field of the Dead
+# Artefakte
+Arcane Signet | Talisman of Curiosity | Talisman of Hierarchy | Talisman of Resilience | Talisman of Conviction | Jeweled Lotus
+# Rot
+Dockside Extortionist | Deflecting Swat | Jeska's Will
+Underworld Breach | Lion's Eye Diamond | Brainfreeze | Intuition | Sevinne's Reclamation
+# Weiß
+Smothering Tithe | Drannith Magistrate | Ranger Captain of Eos
+# Blau
+Hullbreacher | Narset, Parter of Veils | Timetwister | Windfall |  Wheel of Fortune | Wheel of Misfortune | Nekusar, the Mindrazer
+Thassa's Oracle | Demonic Consultation | Tainted Pact | Laboratory Maniac | Jace, Wielder of Mysteries
+Force of Negation | Fierce Guardianship | Miscast | Narset's Reversal | Spellseeker | Teferi, Master of Time
+# Schwarz
+Opposition Agent | Wishclaw Talisman | Peer into the Abyss | Bolas's Citadel
+# Grün
+Veil of Summer | Finale of Devastation | Collector Ouphe | Null Rod | Force of Vigor | Destiny Spinner
+# Gold
+Assassin's Trophy | Dovin's Veto | Neoform | Tasigur, the Golden Fang | Koma, Cosmos Serpent |  Faeburrow Elder | Teferi, Time Raveler | Oko, Thief of Crowns | Ashiok, Dream Render
+# Commander
+Urza, Lord High Artificer | Urza's Mine | Urza's Tower | Urza's Power Plant | Strip Mine | Urza's Saga |  Memory Jar | Winter Orb | Jace, Vryn's Prodigy | Teferi, Temporal Archmage
+Heliod, Sun-Crowned | Yawgmoth, Thran Physician | Magda, Brazen Outlaw  | Yuriko, the Tiger's Shadow |Jorn, God of Winter | Chulane, Teller of Tales | Korvold, Fae-Cursed King | Kenrith, the Returned King | Golos, Tireless Pilgrim | Najeela, the Blade-Blossom
+# TSR
+Nature's Claim | Eternal Witness | Panharmonicon | Etali, Primal Storm | Bojuka Bog |  Trinket Mage | Ponder | Elvish Mystic | Containment Priest | Gray Merchant of Asphodel
 `;
+/*
 
+*/
 /*
 # 2019
-# Ravnica Allegiance 2019-01
-Smothering Tithe | Mystic Remora | Rhystic Study | Wheel of Fortune
 # War of the Sparks 2019-05
 Narset, Parter of Veils | Ashiok, Dream Render | Teferi, Time Raveler | Narset's Reversal | Bolas's Citadel | Jace, Wielder of Mysteries | Dovin's Veto | Finale of Devastation | Teferi, Time Raveler
 # Modern Horizons  2019-06
 Talisman of Curiosity | Talisman of Hierarchy | Talisman of Resilience | Talisman of Conviction | Prismatic Vista
 Force of Negation | Force of Vigor | Generous Gift | Collector Ouphe | Yawgmoth, Thran Physician
-Urza, Lord High Artificer |  Winter Orb | Jace, Vryn's Prodigy // Jace, Telepath Unbound | Teferi, Temporal Archmage
+Urza, Lord High Artificer |  Winter Orb | Jace, Vryn's Prodigy | Teferi, Temporal Archmage
 # M20
 Veil of Summer | Field of the Dead
 # Commander 2019
