@@ -2,8 +2,33 @@
 Read Scryfall JSON and transform it into a data structure that can be accessed more quickly and that only contains card name and image URL for the first print.*/
 const fs = require("fs");
 const data = fs.readFileSync("scryfall-default-cards.json");
-const cards = JSON.parse(data);
+let cards = JSON.parse(data);
 const indexBase = [];
+
+const tmp = [];
+
+// split double faced cards
+for (let card of cards) {
+	if (card.name.includes("Jace, Vryn's"))
+		console.log(card.name.includes("//") && !card.image_uris && !!card.card_faces);
+
+	if (card.name.includes("//") && !card.image_uris && !!card.card_faces) {
+		const [frontName, backName] = card.name.split(" // ");
+		[front, back] = [Object.assign({}, card), Object.assign({}, card)];
+		front.name = frontName;
+		back.name = backName;
+		front.image_uris = card.card_faces[0].image_uris;
+		back.image_uris = card.card_faces[1].image_uris;
+		tmp.push(front);
+		tmp.push(back);
+		if (card.name.includes("Jace, Vryn's")) {
+			console.log(front, back);
+		}
+	} else {
+		tmp.push(card);
+	}
+}
+cards = tmp;
 
 // sorting by release date and then stable sorting by frame would be simpler but didn't work in practise and changed the order creating large diffs on cards.js
 for (let card of cards) {
@@ -20,9 +45,6 @@ for (let card of cards) {
 	if (card.set_name === "San Diego Comic-Con 2015") continue;
 	if (card.lang !== "en") continue; // ignore japanese alternate art
 	// double faced cards
-	if (card.name.includes("//") && !card.image_uris) {
-		card.image_uris = card.card_faces[0].image_uris;
-	}
 	const uris = card.image_uris;
 	if (!uris) {
 		console.error("No images for card " + card.name + " " + card.uri);
