@@ -14,19 +14,6 @@ Assassin's Trophy | Plaguecrafter
 */
 
 var new2021 = `
-# Lands
-## Bond Lands
-Sea of Clouds | Morphic Pool | Luxury Suite | Spire Garden | Bountiful Promenade | Vault of Champions | Training Center | Undergrowth Stadium | Spectator Seating | Rejuvenating Springs
-# Double-Faced Lands
-Clearwater Pathway |	Murkwater Pathway | Cragcrown Pathway |	Timbercrown Pathway | Branchloft Pathway |	Boulderloft Pathway | Brightclimb Pathway |	Grimclimb Pathway | Riverglide Pathway |	Lavaglide Pathway
-Needleverge Pathway |	Pillarverge Pathway | Hengegate Pathway | Mistgate Pathway | Blightstep Pathway | Searstep Pathway | Darkbore Pathway | Slitherbore Pathway | Barkchannel Pathway | Tidechannel Pathway
-# Snow Duals
-Glacial Floodplain | Ice Tunnel | Sulfurous Mire | Highland Forest | Arctic Treeline | Snowfield Sinkhole | Volatile Fjord | Woodland Chasm | Alpine Meadow | Rimewood Falls
-
-
-`;
-
-/*
 # 2019
 # Ravnica Allegiance 2019-01
 Smothering Tithe | Mystic Remora | Rhystic Study | Wheel of Fortune
@@ -58,5 +45,4 @@ Teferi, Master of Time
 # Zendikar Rising
 Emeria's Call // Emeria, Shattered Skyclave
 Bala Ged Recovery | Sejiri Shelter |  | Sea Gate Restoration | Agadeem's Awakening
-
-*/
+`;
