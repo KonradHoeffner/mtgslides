@@ -17,6 +17,12 @@ for (let card of cards) {
 	) {
 		continue;
 	}
+	if (card.set_name === "San Diego Comic-Con 2015") continue;
+	if (card.lang !== "en") continue; // ignore japanese alternate art
+	// double faced cards
+	if (card.name.includes("//") && !card.image_uris) {
+		card.image_uris = card.card_faces[0].image_uris;
+	}
 	const uris = card.image_uris;
 	if (!uris) {
 		console.error("No images for card " + card.name + " " + card.uri);
