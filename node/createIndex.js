@@ -5,9 +5,16 @@ const data = fs.readFileSync("scryfall-default-cards.json");
 const cards = JSON.parse(data);
 const indexBase = [];
 
+// sorting by release date and then stable sorting by frame would be simpler but didn't work in practise and changed the order creating large diffs on cards.js
 for (let card of cards) {
-	// we already have an older print
-	if (indexBase[card.name] && indexBase[card.name].released_at < card.released_at) {
+	// prefer first printing
+	// exception: new printing has older frame
+	if (
+		indexBase[card.name] &&
+		(parseInt(indexBase[card.name].frame) < parseInt(card.frame) ||
+			(parseInt(indexBase[card.name].frame) == parseInt(card.frame) &&
+				indexBase[card.name].released_at < card.released_at))
+	) {
 		continue;
 	}
 	const uris = card.image_uris;
@@ -15,7 +22,7 @@ for (let card of cards) {
 		console.error("No images for card " + card.name + " " + card.uri);
 		continue;
 	}
-	indexBase[card.name] = { url: card.image_uris.large, released_at: card.released_at };
+	indexBase[card.name] = { url: card.image_uris.large, released_at: card.released_at, frame: card.frame };
 }
 const index = {}; // [] does not work with associative arrays with stringify
 for (let key in indexBase) {
