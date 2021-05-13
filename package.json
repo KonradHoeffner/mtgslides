@@ -18,5 +18,8 @@
 	"bugs": {
 		"url": "https://github.com/KonradHoeffner/mtgslides/issues"
 	},
-	"homepage": "https://github.com/KonradHoeffner/mtgslides#readme"
+	"homepage": "https://github.com/KonradHoeffner/mtgslides#readme",
+	"devDependencies": {
+		"prettier": "2.3.0"
+	}
 }
