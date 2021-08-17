@@ -1,5 +1,4 @@
-var chulaneText =
-`Chulane, Teller of Tales
+var chulaneText = `Chulane, Teller of Tales
 # https://www.mtgvault.com/kirdie2/decks/chulane/
 
 # Kreaturenlastiges Midrange Deck, lange interaktive Spiele

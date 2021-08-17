@@ -1,5 +1,4 @@
-var gravehateText =
-`# Die besten Anti-Friedhofs-Karten in Commander
+var gravehateText = `# Die besten Anti-Friedhofs-Karten in Commander
 Grafdigger's Cage|Rest in Peace
 Timetwister|High Tide|Timespiral|Turnabout|Frantic Search|Paradox Engine|Isochron Scepter|Dramatic Reversal|Dark Ritual|Noxious Revival
 Noxious Revival|Animate Dead|Elesh Norn, Grand Cenobite|Tormod's Crypt|Time Warp

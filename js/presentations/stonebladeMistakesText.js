@@ -1,5 +1,4 @@
-var stonebladeMistakesText =
-`Stoneforge Mystic|Batterskull|Sword of Feast and Famine|Snapcaster Mage|Mana Leak|Force of Negation|Path to Exile|Teferi, Time Raveler|Jace, the Mind Sculptor|Cryptic Command
+var stonebladeMistakesText = `Stoneforge Mystic|Batterskull|Sword of Feast and Famine|Snapcaster Mage|Mana Leak|Force of Negation|Path to Exile|Teferi, Time Raveler|Jace, the Mind Sculptor|Cryptic Command
 
 Island|Plains|Flooded Strand|Misty Rainforest|Hallowed Fountain|Field of Ruin|Glacial Fortress|Celestial Colonnade|Mystic Sanctuary
 Path to Exile

@@ -1,5 +1,4 @@
-var muldrothaText =
-`Muldrotha, the Gravetide
+var muldrothaText = `Muldrotha, the Gravetide
 
 # Lands
 # 9

@@ -1,5 +1,4 @@
-var breyaText =
-`Breya, Etherium Shaper
+var breyaText = `Breya, Etherium Shaper
 Breya, Etherium Shaper | Plains | Island | Swamp | Mountain
 Breya, Etherium Shaper | Swords to Plowshares | Mystic Remora | Force of Will | Brainstorm | Demonic Tutor | Vampiric Tutor | Necropotence | Wheel of Fortune | Fire Covenant
 Breya, Etherium Shaper | Swords to Plowshares | Thopter | Thopter

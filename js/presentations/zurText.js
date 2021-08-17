@@ -1,5 +1,4 @@
-var zurText =
-`Zur the Enchanter
+var zurText = `Zur the Enchanter
 
 Zur the Enchanter|Necropotence|Reliquary Tower|Empyrial Armor|Steel of the Godhead
 Zur the Enchanter|Necropotence|Reliquary Tower|Empyrial Armor|Steel of the Godhead|Lightning Greaves|Vanishing|Greater Auramancy|Diplomatic Immunity

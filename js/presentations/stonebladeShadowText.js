@@ -1,5 +1,4 @@
-var stonebladeShadowText =
-`Stoneforge Mystic|Death's Shadow
+var stonebladeShadowText = `Stoneforge Mystic|Death's Shadow
 
 Stoneforge Mystic|Batterskull|Sword of Feast and Famine|Snapcaster Mage|Mana Leak|Force of Negation|Path to Exile|Teferi, Time Raveler|Jace, the Mind Sculptor|Cryptic Command|
 Ice-Fang Coatl|Uro, Titan of Nature's Wrath|Once Upon a Time|Arcum's Astrolabe

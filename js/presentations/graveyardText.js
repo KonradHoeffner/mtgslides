@@ -1,5 +1,4 @@
-var graveyardText =
-`# How to utilize the graveyard  
+var graveyardText = `# How to utilize the graveyard  
 
 Grizzly Bears|White Knight|Hill Giant|Serendib Efreet|Hypnotic Specter
 Force of Nature|Serra Angel|Shivan Dragon|Mahamoti Djinn|Nightmare

@@ -1,5 +1,4 @@
-var najeelaText =
-`Najeela, the Blade-Blossom
+var najeelaText = `Najeela, the Blade-Blossom
 # https://www.mtgvault.com/kirdie2/decks/najeela/
 
 # beste Karten aus 5 Farben

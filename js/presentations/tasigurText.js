@@ -1,5 +1,4 @@
-var tasigurText =
-`Tasigur, the Golden Fang
+var tasigurText = `Tasigur, the Golden Fang
 
 # Lands
 # 9
