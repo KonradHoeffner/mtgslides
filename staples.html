@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="de">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Magic: the Gathering cEDH Staples</title>
+		<link rel="stylesheet" href="css/screen.css" />
+		<script type="text/javascript" src="./cards.js"></script>
+	</head>
+	<body>
+		<script async>
+			async function test() {
+				const response = await fetch("scryfall-default-cards.json");
+				const scryfall = await response.json();
+				const decklists = [];
+				// TODO: load colors
+				for(let card of []) // TODO: insert decklist database cards
+				{
+					scryfall
+				}
+			}
+
+			test();
+		</script>
+
+		<h3>Questions and Contributions</h3>
+		This is a quick hack developed <a href="https://github.com/konradhoeffner/mtgslides">on GitHub</a> using the cEDH DB Web Scrapper from anonymous. Feel free
+		to contribute a pull request or to open an issue to report bugs, ask questions or propose additions.
+	</body>
+</html>
