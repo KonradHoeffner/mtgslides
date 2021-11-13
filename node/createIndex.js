@@ -9,11 +9,10 @@ const tmp = [];
 
 // split double faced cards and filter out ignored cards
 for (let card of cards) {
-	if (new Date(card.released_at) < new Date() && card.legalities.vintage !== "legal") continue;
+	if (new Date(card.released_at) < new Date() && card.legalities.vintage == "not_legal") continue;
 	if (card.set_name === "San Diego Comic-Con 2015") continue;
 	if (card.promo) continue; // promos should have normal versions, which look better on screen
 	if (card.lang !== "en") continue; // ignore japanese alternate art
-
 	if (card.name.includes("//") && !card.image_uris && !!card.card_faces) {
 		const [frontName, backName] = card.name.split(" // ");
 		[front, back] = [Object.assign({}, card), Object.assign({}, card)];
