@@ -58,11 +58,12 @@ for (let card of cards) {
 	};
 }
 const index = {}; // [] does not work with associative arrays with stringify
-const index2 = {};
+let index2 = {};
 for (let key in indexBase) {
 	index[key] = indexBase[key].url;
 	const ib = indexBase[key];
 	index2[key] = { img: ib.url, colors: ib.colors, mana_cost: ib.mana_cost, cmc: ib.cmc, type_line: ib.type_line, color_identity: ib.color_identity };
 }
 fs.writeFile("cards.js", "var cards =" + JSON.stringify(index, null, 2) + ";", "utf8", console.error);
-fs.writeFile("cards2.js", "var cards2 =" + JSON.stringify(index2, null, 2) + ";", "utf8", console.error);
+index2 = Object.fromEntries(Object.entries(index2).sort()); // reduce diff size
+fs.writeFile("cards2.js", "var cards2 = " + JSON.stringify(index2, null, 2) + ";", "utf8", console.error);
