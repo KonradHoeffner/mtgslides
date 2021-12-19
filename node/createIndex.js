@@ -13,6 +13,7 @@ for (let card of cards) {
 	if (card.set_name === "San Diego Comic-Con 2015") continue;
 	if (card.promo) continue; // promos should have normal versions, which look better on screen
 	if (card.lang !== "en") continue; // ignore japanese alternate art
+	if (card.type_line?.startsWith("Token")) continue; // ignore tokens
 	if (card.name.includes("//") && !card.image_uris && !!card.card_faces) {
 		const [frontName, backName] = card.name.split(" // ");
 		[front, back] = [Object.assign({}, card), Object.assign({}, card)];
@@ -35,8 +36,7 @@ for (let card of cards) {
 	if (
 		indexBase[card.name] &&
 		(parseInt(indexBase[card.name].frame) < parseInt(card.frame) ||
-			(parseInt(indexBase[card.name].frame) == parseInt(card.frame) &&
-				indexBase[card.name].released_at < card.released_at))
+			(parseInt(indexBase[card.name].frame) == parseInt(card.frame) && indexBase[card.name].released_at < card.released_at))
 	) {
 		continue;
 	}
@@ -46,14 +46,23 @@ for (let card of cards) {
 		console.error("No images for card " + card.name + " " + card.uri);
 		continue;
 	}
-	indexBase[card.name] = { url: card.image_uris.large, released_at: card.released_at, frame: card.frame, colors: card.colors, cmc: card.cmc, mana_cost: card.mana_cost, type_line: card.type_line, color_identity:card.color_identity, };
+	indexBase[card.name] = {
+		url: card.image_uris.large,
+		released_at: card.released_at,
+		frame: card.frame,
+		colors: card.colors,
+		cmc: card.cmc,
+		mana_cost: card.mana_cost,
+		type_line: card.type_line,
+		color_identity: card.color_identity,
+	};
 }
 const index = {}; // [] does not work with associative arrays with stringify
 const index2 = {};
 for (let key in indexBase) {
 	index[key] = indexBase[key].url;
 	const ib = indexBase[key];
-	index2[key] = {img: ib.url, colors: ib.colors, mana_cost: ib.mana_cost, cmc:ib.cmc, type_line:ib.type_line, color_identity:ib.color_identity};
+	index2[key] = { img: ib.url, colors: ib.colors, mana_cost: ib.mana_cost, cmc: ib.cmc, type_line: ib.type_line, color_identity: ib.color_identity };
 }
 fs.writeFile("cards.js", "var cards =" + JSON.stringify(index, null, 2) + ";", "utf8", console.error);
 fs.writeFile("cards2.js", "var cards2 =" + JSON.stringify(index2, null, 2) + ";", "utf8", console.error);
