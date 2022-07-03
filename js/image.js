@@ -22,7 +22,7 @@ function saveCache() {
 }
 
 async function imageUrl(cardName) {
-	let url = cards[cardName];
+	let url = mtgimg[cardName];
 	if (url) return url;
 
 	if ((url = cache[cardName])) {
