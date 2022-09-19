@@ -16,7 +16,7 @@
 var new2022 = `
 # Lands
 ## Kamigawa Neon Dynasty legendary channel lands
-## interaktiv gut für das spiel gegen flood/screw und gegen counterspells aber teuer 
+## interaktiv gut für das spiel gegen flood/screw und gegen counterspells aber teuer
 #Boseiju, Who Endures | Otawara, Soaring City | Eiganjo, Seat of the Empire | Takenuma, Abandoned Mire | Sokenzan, Crucible of Defiance
 
 # Colorless
@@ -32,27 +32,25 @@ Vanquish the Horde | Adeline, Resplendent Cathar | Aerial Extortionist | Ingenio
 # The Restoration of Eiganjo | Architect of Restoration
 
 # Blue
-Otawara, Soaring City | An Offer You Can't Refuse | Ledger Shredder | March of Swirling Mist | Solve the Equation | Dress Down | Resculpt | Alchemist's Retrieval | Hullbreaker Horror | Displacer Kitten 
+Otawara, Soaring City | An Offer You Can't Refuse | Ledger Shredder | March of Swirling Mist | Solve the Equation | Dress Down | Resculpt | Alchemist's Retrieval | Hullbreaker Horror | Displacer Kitten
+Moon-Circuit Hacker | Thousand Faced Shadow | Prosperous Thief
 Step Through | Imposter Mech | Archmage Emeritus | Consider | Geistwave | Grazilaxx, Illithid Scholar | Moonsnare Prototype | Suspend | Mystic Reflection | Otherworldly Gaze
 The Reality Chip | You Come to a River | Aether Channeler | Alrund's Epihany | Cut Your Losses | Defiler of Dreams | Fading Hope | Gale, Waterdeep Prodigy | Jin-Gitaxias, Progress Tyrant | Micromancer
-Slip Out the Back | Moon-Circuit Hacker | Thousand Faced Shadow | Prosperous Thief | Winged Boots | Witness Protection | Volshe Tideturner
+Slip Out the Back | Winged Boots | Witness Protection | Volshe Tideturner
+
+
+# Black
+Dauthi Voidwalker | Grim Hireling | Unmarked Grave | Takenuma, Abandoned Mire | Cut Down | Nashi, Moon Sage's Scion | Profane Tutor | The Meathook Massacre | Persist| Ruthless Technomancer
+Saw in Half | Black Market Connections | Bone Shards | Professor Onyx | Vile Entomber | Activated Sleeper | Asmodeus the Archfiend | Varragoth, Bloodsky Sire
+
+# Red
+Ragavan, Nimble Pilferer | Professional Face-Breaker | Dragon's Rage Channeler | Tibalt's Trickery | Strike It Rich | Delayed Blast Fireball | Twinshot Sniper | Magda, Brazen Outlaw | Cathartic Pyre | Sokenzan, Crucible of Defiance
+Wild Magic Surge | Cursed Mirror | Harmonic Prodigy | March of Reckless Joy | Storm-Kiln Artist | Tavern Scoundrel | Guild Artisan | Fury | Mine Collapse | Rionya, Fire Dancer
 
 # Green
-# old
-# Other
-Prismatic Vista | Emergence Zone
-# Artefakte
-Arcane Signet | Talisman of Curiosity | Talisman of Hierarchy | Talisman of Resilience | Talisman of Conviction | Jeweled Lotus
-# Rot
-Dockside Extortionist | Deflecting Swat | Jeska's Will
-Underworld Breach | Lion's Eye Diamond | Brainfreeze | Intuition | Sevinne's Reclamation
-# Weiß
-Smothering Tithe | Drannith Magistrate | Ranger Captain of Eos
-# Blau
-# Schwarz
-Opposition Agent | Wishclaw Talisman | Peer into the Abyss | Bolas's Citadel
-# Grün
-Veil of Summer | Finale of Devastation | Collector Ouphe | Null Rod | Force of Vigor | Destiny Spinner
+Boseiju, Who Endures | Endurance | Toski, Bearer of Secrets | Turn the Earth | Vivien on the Hunt | Circle of Dreams Druid | Sanctum Weaver | Tireless Provisioner | Saryth, the Viper's Fang | Chatterstorm
+
 # Gold
-Koma, Cosmos Serpent
+Ice Tunnel | Rimewood Falls | Woodland Chasm | Alpine Meadow | Arctic Treeline | Glacial Floodplain | Highland Forest | Snowfield Sinkhole | Sulfurous Mire | Volatile Fjord
+Damn | Vanishing Verse | Blade Historian | Toxrill, the Corrosive | Yusri, Fortune's Flame | Veyran, Voice of Duality | Koma, Cosmos Serpent | Moritte of the Frost | Grist, the Hunger Tide | Witherbloom Apprentice | Chain of Smog | Ignoble Hierarch
 `;
