@@ -19,10 +19,11 @@ var new2022 = `
 ## interaktiv gut für das spiel gegen flood/screw und gegen counterspells aber teuer
 #Boseiju, Who Endures | Otawara, Soaring City | Eiganjo, Seat of the Empire | Takenuma, Abandoned Mire | Sokenzan, Crucible of Defiance
 
-# Colorless
-Urza's Saga | Plaza of Heroes | Treasure Vault | Academy Manufactor | Void Mirror | Moonsilver Key | Pyre of Heroes | Weathered Runestone | Containment Construct |  Ornithopter of Paradise
-Sword of Hearth and Home | Kaldra Compleat | Relic of Legends | Maskwood Nexus | Bloodline Pretender | Liquimetal Torque | Unlicensed Hearse | Dermotaxi | Mighty Servant of Leuk-o | Reckoner Bankbuster
-Luxior, Giada's Gift | Prized Statue | Roadside Reliquary
+# Colorless (Soul-Guide Lantern 2020)
+Urza's Saga | Plaza of Heroes | Treasure Vault | Academy Manufactor | Sword of Hearth and Home | Kaldra Compleat |  Pyre of Heroes | Maskwood Nexus | Relic of Legends | Soul-Guide Lantern
+#| Void Mirror | Moonsilver Key | | Weathered Runestone | Containment Construct |  Ornithopter of Paradise
+# | Relic of Legends |  Bloodline Pretender | Liquimetal Torque | Unlicensed Hearse | Dermotaxi | Mighty Servant of Leuk-o | Reckoner Bankbuster
+# Luxior, Giada's Gift | Prized Statue | Roadside Reliquary
 #| Circuit Mender | Currency Converter | Dollhouse of Horrors | Eye of Vecna | Leather Armor | Myr Scrapling | Shrine Steward
 
 # White
