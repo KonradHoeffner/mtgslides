@@ -19,18 +19,26 @@ var new2022 = `
 ## interaktiv gut für das spiel gegen flood/screw und gegen counterspells aber teuer
 #Boseiju, Who Endures | Otawara, Soaring City | Eiganjo, Seat of the Empire | Takenuma, Abandoned Mire | Sokenzan, Crucible of Defiance
 
-# Colorless (Soul-Guide Lantern 2020)
-Urza's Saga | Plaza of Heroes | Treasure Vault | Academy Manufactor | Sword of Hearth and Home | Kaldra Compleat |  Pyre of Heroes | Maskwood Nexus | Relic of Legends | Soul-Guide Lantern
+Urza's Saga | History of Benalia | The Restoration of Eiganjo | Architect of Restoration 
+Urza's Saga | Sol Ring | Mana Crypt | Mana Vault | Jeweled Lotus | Skullclamp | Esper Sentinel | Land Tax | Lion's Eye Diamond  | Soul-Guide Lantern
+Plaza of Heroes | Sisay, Weatherlight Captain | Rograkh, Son of Rohgahh
+Academy Manufactor | Magda, Brazen Outlaw | Old Rutstein | Jaheira, Friend of the Forest | Lonis, Cryptozoologist | Phantasmal Image | Phyrexian Metamorph | Glasspool Mimic | Glasspool Shore | Mirror Image
+Treasure Vault | Magda, Brazen Outlaw | Kinnan, Bonder Prodigy | Basalt Monolith
+Sword of Hearth and Home | Sword of Fire and Ice | Sword of Fire and Ice | Sword of Light and Shadow | Sword of Truth and Justice | Thragtusk | Stoneforge Mystic | Control Magic | Gilded Drake | Swords to Plowshares
+# Void Mirror | Moonsilver Key | Pyre of Heroes | Weathered Runestone | Containment Construct |  Ornithopter of Paradise
+ Kaldra Compleat | Relic of Legends | Maskwood Nexus | Bloodline Pretender | Liquimetal Torque | Unlicensed Hearse | Dermotaxi | Mighty Servant of Leuk-o | Reckoner Bankbuster
+#Urza's Saga | Plaza of Heroes | Treasure Vault | Academy Manufactor | Sword of Hearth and Home | Kaldra Compleat |  Pyre of Heroes | Maskwood Nexus | Relic of Legends | Soul-Guide Lantern
 #| Void Mirror | Moonsilver Key | | Weathered Runestone | Containment Construct |  Ornithopter of Paradise
 # | Relic of Legends |  Bloodline Pretender | Liquimetal Torque | Unlicensed Hearse | Dermotaxi | Mighty Servant of Leuk-o | Reckoner Bankbuster
 # Luxior, Giada's Gift | Prized Statue | Roadside Reliquary
 #| Circuit Mender | Currency Converter | Dollhouse of Horrors | Eye of Vecna | Leather Armor | Myr Scrapling | Shrine Steward
 
+
 # White
-Esper Sentinel | Archivist of Oghma | Eiganjo, Seat of the Empire | Cathar Commando | Outland Liberator | Frenzied Trapbreaker | Solitude | March of Otherworldly Light | Portable Hole | Deep Gnome Terramancer
-Paladin Class | Swift Reconfiguration | Moon-Blessed Cleric | Hallowed Haunting | Out of Time | Lion Sash | Sanctifier en-Vec |  Oswald Fiddlebender | Abdel Adrian, Gorion's Ward | Touch the Spirit Realm
-Vanquish the Horde | Adeline, Resplendent Cathar | Aerial Extortionist | Ingenious Smith | Search for Glory | Smuggler's Share | Strict Proctor | The Wandering Emperror
-# The Restoration of Eiganjo | Architect of Restoration
+Esper Sentinel | Archivist of Oghma | Eiganjo, Seat of the Empire | Cathar Commando | Solitude | March of Otherworldly Light | Portable Hole | Deep Gnome Terramancer | Paladin Class | Swift Reconfiguration
+Moon-Blessed Cleric | Hallowed Haunting | Out of Time | Lion Sash | Sanctifier en-Vec |  Oswald Fiddlebender | Abdel Adrian, Gorion's Ward |  Smuggler's Share | Strict Proctor | The Restoration of Eiganjo
+# Vanquish the Horde | Adeline, Resplendent Cathar | Aerial Extortionist | Ingenious Smith | Search for Glory | | | The Wandering Emperror | Touch the Spirit Realm
+
 
 # Blue
 Otawara, Soaring City | An Offer You Can't Refuse | Ledger Shredder | March of Swirling Mist | Solve the Equation | Dress Down | Resculpt | Alchemist's Retrieval | Hullbreaker Horror | Displacer Kitten
