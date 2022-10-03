@@ -35,13 +35,19 @@ Sword of Hearth and Home | Sword of Fire and Ice | Sword of Fire and Ice | Sword
 
 
 # White
-Esper Sentinel | Archivist of Oghma | Eiganjo, Seat of the Empire | Cathar Commando | Solitude | March of Otherworldly Light | Portable Hole | Deep Gnome Terramancer | Paladin Class | Swift Reconfiguration
-Moon-Blessed Cleric | Hallowed Haunting | Out of Time | Lion Sash | Sanctifier en-Vec |  Oswald Fiddlebender | Abdel Adrian, Gorion's Ward |  Smuggler's Share | Strict Proctor | The Restoration of Eiganjo
-# Vanquish the Horde | Adeline, Resplendent Cathar | Aerial Extortionist | Ingenious Smith | Search for Glory | | | The Wandering Emperror | Touch the Spirit Realm
+Esper Sentinel | Archivist of Oghma | Deep Gnome Terramancer | Smuggler's Share | Smothering Tithe | Weathered Wayfarer | Land Tax | Tithe | Archaeomancer's Map | Keeper of the Accord
+Eiganjo, Seat of the Empire | Cathar Commando | Solitude | March of Otherworldly Light | Portable Hole | Paladin Class
+Hallowed Haunting | Sigil of the Empty Throne | Luminarch Ascension | Rest in Peace | Helm of Obedience | Out of Time | Temporary Lockdown | Sythis, Harvest's Hand | Moon-Blessed Cleric | Rocco, Cabaretti Caterer
+Lion Sash | Scavenging Ooze | Arahbo, Roar of the World | Heliod, Sun-Crowned | Sram, Senior Edificer
+#Sanctifier en-Vec |  Oswald Fiddlebender | Abdel Adrian, Gorion's Ward |  Strict Proctor | The Wandering Emperor | Swift Reconfiguration
+# Vanquish the Horde | Adeline, Resplendent Cathar | Aerial Extortionist | Ingenious Smith | Search for Glory | | | Touch the Spirit Realm
 
 
 # Blue
-Otawara, Soaring City | An Offer You Can't Refuse | Ledger Shredder | March of Swirling Mist | Solve the Equation | Dress Down | Resculpt | Alchemist's Retrieval | Hullbreaker Horror | Displacer Kitten
+Otawara, Soaring City | Chain of Vapor | Stern Dismissal |  Boomerang | Into the Roil
+Island | High Tide | Flooded Strand | Back to Basics | Blood Moon
+An Offer You Can't Refuse | Spell Pierce | Flusterstorm | Swan Song | Dispel
+Ledger Shredder | March of Swirling Mist | Solve the Equation | Dress Down | Resculpt | Alchemist's Retrieval | Hullbreaker Horror | Displacer Kitten
 Moon-Circuit Hacker | Thousand Faced Shadow | Prosperous Thief
 Step Through | Imposter Mech | Archmage Emeritus | Consider | Geistwave | Grazilaxx, Illithid Scholar | Moonsnare Prototype | Suspend | Mystic Reflection | Otherworldly Gaze
 The Reality Chip | You Come to a River | Aether Channeler | Alrund's Epihany | Cut Your Losses | Defiler of Dreams | Fading Hope | Gale, Waterdeep Prodigy | Jin-Gitaxias, Progress Tyrant | Micromancer
