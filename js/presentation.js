@@ -69,7 +69,7 @@ class Presentation {
 		for (const card of slide) {
 			const container = document.createElement("figure");
 			container.classList.add("container");
-			container.classList.add(slide.length > 5 ? (slide.length > 10 ? "container33" : "container50") : "container100");
+			container.classList.add(slide.length > 2 ? (slide.length > 10 ? "container33" : "container50") : "container100");
 			const img = document.createElement("img");
 			container.appendChild(img);
 			img.src = card.img;
