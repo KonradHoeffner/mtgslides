@@ -13,16 +13,17 @@ class Presentation {
 			if (!line || line.startsWith("#")) {
 				continue;
 			} // ignore comments
-			cardNames = line.split("|");
+			const cards = line.split("|");
 			const slide = [];
 			slides.push(slide);
 
-			for (let cardName of cardNames) {
+			for (let c of cards) {
+				let [cardName, count] = c.split("*");
 				cardName = cardName.trim();
 				if (!cardName) {
 					continue;
 				}
-				const card = { name: cardName };
+				const card = { name: cardName, count };
 				card.img = await imageUrl(cardName);
 				slide.push(card);
 			}
@@ -66,11 +67,21 @@ class Presentation {
 			return false;
 		}
 		for (const card of slide) {
-			const img = document.createElement("IMG");
+			const container = document.createElement("figure");
+			container.classList.add("container");
+			container.classList.add(slide.length > 5 ? (slide.length > 10 ? "container33" : "container50") : "container100");
+			const img = document.createElement("img");
+			container.appendChild(img);
 			img.src = card.img;
-			img.classList.add(slide.length > 2 ? "card50" : "card");
-			document.body.appendChild(img);
-			this.shown.push(img);
+			img.classList.add("card");
+			if (card.count) {
+				const caption = document.createElement("figcaption");
+				container.appendChild(caption);
+				caption.classList.add("caption");
+				caption.innerText = card.count;
+			}
+			document.body.appendChild(container);
+			this.shown.push(container);
 		}
 	}
 }

@@ -13,13 +13,43 @@
  flex-wrap: wrap;
 }
 
-.card50
+.container
+{
+ aspect-ratio: 5 / 7;
+ margin: 0;
+ position: relative;
+}
+
+.container33
+{
+ max-height: 33%;
+ max-width: 16.6%;
+}
+
+.container50
 {
  max-height: 50%;
  max-width: 20%;
 }
 
+.container100
+{
+ height: 100%;
+}
+
 .card
 {
  height: 100%;
+}
+
+.caption
+{
+ color: white;
+ -webkit-text-stroke: 1px black;
+ position: absolute;
+ float: left;
+ left: 13%;
+ top: 11%;
+ font-size: 3em;
+ font-weight: bold;
 }
