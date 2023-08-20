@@ -8,45 +8,49 @@ Volcanic Island*4 |Underground Sea*2 | Polluted Delta*4 | Flooded Strand*4 | Was
 # Kreaturen
 Delver of Secrets | Insectile Aberration | Wasteland | Daze | Force of Will | Mishra's Bauble | Ponder | Brainstorm | Dragon's Rage Channeler | Mystic Sanctuary
 Dragon's Rage Channeler | Brainstorm | Polluted Delta | Ponder | Murktide Regent | Mishra's Bauble | Delver of Secrets | Ponder | Counterbalance | Pyroblast
-Murktide Regent | Tarmogoyf | Dragon's Rage Channeler | Mystic Sanctuary | Bojuka Bog | Murktide Regent | Unlicensed Hearse
+Murktide Regent | Tarmogoyf | Dragon's Rage Channeler | Mystic Sanctuary | Bojuka Bog
 Orcish Bowmasters | Narset, Parter of Veils | Brainstorm | Echo of Eons | Griselbrand | Delver of Secrets | Cephalid Illusionist | Baleful Strix | Elvish Visionary | Thalia, Guardian of Thraben
 
 # Counterspells
-Daze | Wasteland | Delver of Secrets | Stifle | Island | Mystic Sanctuary | Volcanic Island | Wasteland | Polluted Delta | Brainstorm
+Daze | Wasteland | Polluted Delta | Delver of Secrets | Mystic Sanctuary
 Force of Will | Show and Tell | Reanimate | Ad Nauseam | Natural Order | Chalice of the Void | Murktide Regent | Stoneforge Mystic | Aether Vial | Brainstorm
-Force of Will | Cavern of Souls | Allosaurus Shepherd | Emrakul, the Aeons Torn | Abrupt Decay | Brainstorm | Lightning Bolt | Force of Negation | Mind Games | Island*5
-Force of Will | Forest | Veil of Summer | Mountain | Pyroblast | Island | Daze | Tendrils of Agony | Chalice of the Void | Thalia, Guardian of Thraben
+Force of Will | Forest | Veil of Summer | Mountain | Pyroblast | Cavern of Souls | Allosaurus Shepherd | Minds Desire | Violent Outburst
+Spell Pierce | Spell Snare | Minor Misstep
+
 # Removal
-Lightning Bolt | Delver of Secrets | Dragon's Rage Channeler | White Plume Adventurer | Thalia, Guardian of Thraben | Hullbreacher | Allosaurus Shepherd | Mother of Runes ||
-Lightning Bolt | Show and Tell | Mishra's Bauble
-Lightning Bolt | Xanthid Swarm | Dauthi Voidwalker
-Lightning Bolt | Heritage Druid | Nettle Sentinel | Glimpse of Nature | Painter's Servant | Nomads En Kor | Cephalid Illusionist | Riddlesmith | Elvish Reclaimer | Dark Depths
-Lightning Bolt | Wirewood Symbiote | Quirion Ranger | Dryad Arbor | Death's Shadow | Elvish Reclaimer | Aether Vial | Flickerwisp | Jace, the Mind Sculptor | Minsc & Boo, Timeless Heroes 
+Lightning Bolt | Orcish Bowmasters | Brazen Borrower | Grief | Dragon's Rage Channeler | Delver of Secrets | Dryad Arbor | Stoneforge Mystic | Dauthi Voidwalker | Thalia, Guardian of Thraben
+Lightning Bolt | Heritage Druid | Nettle Sentinel | Painter's Servant | Nomads En Kor | Cephalid Illusionist | Riddlesmith | Xantid Swarm | Elvish Reclaimer | Death's Shadow
+# Hard to Remove
+Brazen Borrower | Unholy Heat | Snuff Out | Murktide Regent | Endurance | Uro, Titan of Nature's Wrath | Troll of Khazad-Dûm | Elvish Reclaimer |  Death's Shadow | Sheoldred, the Apocalypse
+
 # Cantrips
-Brainstorm | Polluted Delta | Trash Bin | Impeccable Timing | Temporary Lockdown | Narset, Parter of Veils | Hullbreacher | Memory Lapse | Delver of Secrets*2 | Whiteplume Adventurer
-Ponder | Volcanic Island | 
+Brainstorm | Polluted Delta | Trash Bin | Hullbreacher | Orcish Bowmasters
+Ponder | Volcanic Island | Dragon's Rage Channeler | Force of Will | Meltdown
 Mishra's Bauble | Dragon's Rage Channeler | Delver of Secrets | Polluted Delta | Memory Lapse
+Lórien Revealed 
+
+# Card Advantage
+Sauron's Ransom | Night's Whisper | Predict | Dragon's Rage Channeler | Mishra's Bauble
+
 # Lands
-Volcanic Island | Steam Vents | Island | Mystic Sanctuary
-Polluted Delta*2 | Flooded Strand*2 | Misty Rainforest*2 | Scalding Tarn*2 | Brainstorm | Mystic Sanctuary | Price of Progress
-Wasteland | Underground Sea | Dark Depths | Urza's Saga | Ancient Tomb | Cavern of Souls | Gaea's Cradle | Polluted Delta | Daze | Crop Rotation
+# Wasteland | Underground Sea | Dark Depths | Urza's Saga | Ancient Tomb | Cavern of Souls | Gaea's Cradle | Polluted Delta | Daze | Crop Rotation
+
 # Flex Slots and Sideboard Cards
-Brazen Borrower | Chalice of the Void | Murktide Regent | Serra's Emissary | Animate Dead | Dark Depths | Ensnaring Bridge | Leyline of the Void | Kaldra Compleat | Memory Lapse
-Mercurial Spelldancer | Leyline of the Void | Baleful Strix | Lightning Bolt | 
-Chain Lightning | Lightning Bolt | Mountain | Mountain
-Pyroblast | Red Elemental Blast | Cabal Therapy | Surgical Extraction | Meddling Mage | Dragon's Rage Channeler | Murktide Regent | Force of Will
-Fury | Pyrokinesis | Heritage Druid | Nettle Sentinel | Quirion Ranger | Seasoned Dungeoneer
-Minor Misstep | Death's Shadow | Carpet of Flowers | Pyroblast | Thoughtseize | Swords to Plowshares | Brainstorm | Ancient Tomb | Chalice of the Void | Goblin Rabblemaster
+Pyroblast | Red Elemental Blast | Show and Tell | Murktide Regent | Force of Will | Ponder | Brainstorm | Delver of Secrets | Counterbalance | Narset, Parter of Veils
+Hydroblast | Blue Elemental Blast | Sneak Attack | Blood Moon | Magus of the Moon | Minsc & Boo, Timeless Heroes | Fable of the Mirror-Breaker | Faithless Looting | Pyroblast | Red Elemental Blast
+Surgical Extraction | Reanimate | Exhume | Doomsday | Life from the Loam | Bridge from Below | Past in Flames | Uro, Titan of Nature's Wrath | Goblin Welder | Dread Return
+Grafdigger's Cage | Reanimate | Cephalid Illusionist | Green Sun's Zenith | Natural Order
+Force of Negation | Show and Tell | Doomsday | Ad Nauseam | Reanimate | Balustrade Spy | Life from the Loam | Faithless Looting | Chalice of the Void | Trinisphere
+Flusterstorm | Show and Tell | Doomsday | Ad Nauseam | Reanimate | Balustrade Spy | Glistener Elf | Mind's Desire | Force of Will | Swords to Plowshares
+Brazen Borrower | Chalice of the Void | Ensnaring Bridge | Leyline of the Void | Kaldra Compleat
+Thoughtseize | Force of Negation | Doomsday | Show and Tell | Chalice of the Void
+Meltdown | Chalice of the Void | Sai, Master Thopterist | Abrade | Cast into the Fire | The One Ring
+Maddening Hex | Past in Flames | Rite of Flame | Riddlesmith | High Tide
+Maddening Hex | Reanimate | Doomsday | Death's Shadow | Sai, Master Thopterist | Monastery Mentor | Teferi, Time Raveler | Minsc & Boo, Timeless Heroes | Kolaghan's Command | Delver of Secrets
+Counterbalance | Past in Flames | Rite of Flame | Riddlesmith | High Tide
+Counterbalance | Reanimate | Doomsday | Death's Shadow | Sai, Master Thopterist | Monastery Mentor | Teferi, Time Raveler | Minsc & Boo, Timeless Heroes | Kolaghan's Command | Delver of Secrets
+Maddening Hex | Reanimate | Death's Shadow | Sai, Master Thopterist
 
-Pyroblast | Unholy Heat | Chain Lightning | Fury | Mental Misstep | Counterbalance | Force of Negation | Brazen Borrower | Mercurial Spelldancer | Unlicensed Hearse
-Stifle | Spell Pierce | Spell Snare | Young Pyromancer | Third Path Iconoclast
-Volcanic Island*4 | Steam Vents | Polluted Delta*4 | Flooded Strand*4 | Wasteland*4 | Mystic Sanctuary | Island | Delver of Secrets*4 | Dragon's Rage Channeler*4 | Murktide Regent*4 | Force of Will*4 | Daze*4 | Ponder*4 | Brainstorm*4 | Expressive Iteration*4| Mishra's Bauble*2 | Lightning Bolt*4 | Brazen Borrower | Minor Misstep | Unholy Heat
-
-# vs Sneak and Show
-Volcanic Island*4 | Steam Vents | Polluted Delta*4 | Flooded Strand*4 | Wasteland*4 | Mystic Sanctuary | Hydroblast | Delver of Secrets*4 | Dragon's Rage Channeler*4 | Murktide Regent*2 | Force of Will*4 | Daze*4 | Ponder*4 | Brainstorm*4 | Expressive Iteration*4| Mishra's Bauble*2 | Pyroblast*4 | Brazen Borrower | Minor Misstep | Counterbalance | Force of Negation*2
-Volcanic Island*4 | Steam Vents | Polluted Delta*4 | Flooded Strand*4 | Wasteland*4 | Mystic Sanctuary | Island | Delver of Secrets*4 | Dragon's Rage Channeler*4 | Murktide Regent*3 | Force of Will*3 | Daze*4 | Ponder*4 | Brainstorm*4 | Expressive Iteration*4| Mishra's Bauble*2 | Lightning Bolt*4 | Pyrokinesis | Rough | Unholy Heat | Submerge | End the Festivities
-Volcanic Island | Delver of Secrets | Daze | Wasteland | Flooded Strand | Force of Will | Lightning Bolt
-Volcanic Island | Volcanic Island | Scalding Tarn | Show and Tell | Sneak Attack | Ponder | Brainstorm
-# Sneak and Show
-
+Plague Engineer | Orcish Bowmasters | Delver of Secrets | Cephalid Illusionist | Heritage Druid
+Price of Progress | Mystic Sanctuary | Dark Depths | Minsc & Boo, Timeless Heroes | Death's Shadow
 `;
