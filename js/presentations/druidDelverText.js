@@ -2,7 +2,7 @@ var druidDelverText = `Delver of Secrets | Dragon's Rage Channeler | Questing Dr
 Questing Druid | Expressive Iteration | Quirion Dryad | Quicken | Borrowed Time | Tropical Island | Delver of Secrets | Mystic Sanctuary | Lightning Bolt | Volcanic Island*2
 # Core 56
 Volcanic Island*3 |Tropical Island*2 | Polluted Delta*4 | Flooded Strand*4 | Wasteland*4 | Delver of Secrets*3 | Dragon's Rage Channeler*4 | Murktide Regent*3 | Questing Druid*3 | Force of Will*4 | Daze*4 | Ponder*4 | Brainstorm*4 | Mishra's Bauble*4 | Lightning Bolt*4
-Volcanic Island*3 |Tropical Island*2 | Polluted Delta*4 | Flooded Strand*4 | Wasteland*4 | Delver of Secrets*4 | Dragon's Rage Channeler*4 | Murktide Regent*3 | Questing Druid*4 | Force of Will*4 | Daze*4 | Ponder*4 | Brainstorm*4 | Mishra's Bauble*4 | Brazen Borrower | Lightning Bolt*4 | Chain Lightning
+Volcanic Island*4 |Tropical Island*2 | Polluted Delta*4 | Flooded Strand*4 | Wasteland*4 | Delver of Secrets*4 | Dragon's Rage Channeler*4 | Murktide Regent*3 | Questing Druid*4 | Force of Will*4 | Daze*4 | Ponder*4 | Brainstorm*4 | Mishra's Bauble*4 | Brazen Borrower | Lightning Bolt*4 | Chain Lightning | Island
 
 # Good Matchups
 Show and Tell | Doomsday | High Tide | Cephalid Illusionist | Riddlesmith
