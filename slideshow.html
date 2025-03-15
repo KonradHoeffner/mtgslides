@@ -32,6 +32,7 @@ if(!(cardNames=params.get("cardNames")))
  Presentation.parse(cardNames).then(p=>
  {
   p.start();
+  document.ontouchstart = function(e) {p.next();}
   document.onkeydown = function(e)
   {
     if(e.key === "ArrowRight")  {p.next();}
